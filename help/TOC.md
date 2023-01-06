@@ -1,11 +1,11 @@
 ---
-user-guide-title: Marketo Engage Tutorials
-user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Marketo Engage.
-breadcrumb-title: Marketo Engage Tutorials
-source-git-commit: 03c055f28897708262f82ea9addf0b59b691c735
+user-guide-title: Tutoriais do Marketo Engage
+user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
+breadcrumb-title: Tutoriais do Marketo Engage
+source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 4%
+source-wordcount: '190'
+ht-degree: 13%
 
 ---
 
@@ -77,3 +77,5 @@ ht-degree: 4%
 + Gerenciamento de instâncias {#instance-management}
    + [Práticas recomendadas](instance-management/best-practice-learn.md)
    + [Práticas recomendadas](instance-management/best-practice-watch.md)
++ Eventos {#events}
+   + [Pontuação de leads](events/lead-scoring.md)
