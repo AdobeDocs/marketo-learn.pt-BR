@@ -1,11 +1,11 @@
 ---
 title: Tutoriais do Marketo Engage
-description: Assista aos tutoriais em vídeo [!DNL Marketo Engage]. Melhore a compreensão de como usar os recursos de automação de marketing e muito mais.
+description: Assista aos tutoriais em vídeo [!DNL Marketo Engage]. Melhore sua compreensão de como usar os recursos de automação de marketing e muito mais.
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ Navegue pela biblioteca de tutoriais e obtenha o máximo de [!DNL Marketo Engage
 Adicionado recentemente [!DNL Marketo Engage] tutoriais:
 
 * **[[!UICONTROL Bate-papo dinâmico]  tutoriais](dynamic-chat/dynamic-chat-overview.md)**
-   _Use esses tutoriais juntamente com a documentação para melhorar sua compreensão de como usar o Dynamic Chat para criar conversas personalizadas._
+   _Use estes tutoriais junto à documentação para melhorar sua compreensão de como usar o Dynamic Chat para criar conversas personalizadas._
 
 * **[[!DNL Sales Insight Actions] tutoriais](/help/sales-insight-actions/overview.md)**
    _Use [!UICONTROL Ações de insight de vendas] para acelerar os esforços de prospecção com inteligência e ferramentas de engajamento de marketing juntas em um único fluxo de trabalho._
