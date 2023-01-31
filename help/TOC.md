@@ -2,9 +2,9 @@
 user-guide-title: Tutoriais do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutoriais do Marketo Engage
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 12%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 12%
 + Gerenciamento de dados e clientes potenciais {#lead-and-data-management}
    + [Pontuação de leads](lead-and-data-management/lead-scoring-learn.md)
    + [Apresentação da pontuação de lead](lead-and-data-management/lead-scoring-watch.md)
-   + [Exemplos de pontuação de lead](lead-and-data-management/lead-scoring.md)
    + [Centro de assinaturas](lead-and-data-management/subscription-center-learn.md)
    + [Apresentação do centro de subscrição](lead-and-data-management/subscription-center-watch.md)
    + [Sincronização CRM](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 12%
    + [Visão geral das ações de insight de vendas](sales-insight-actions/sales-insight-actions-overview.md)
    + [Acessar sua instância de ações de insight de vendas](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configure o registro de atividades de vendas para [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Oculto {#hidden}
+   + [Pontuação de lead para Marketo e Mochas](events/marketo-and-mochas/lead-scoring.md)
+   + [Atribuição do Marketo e Mochas Marketo Measure](events/marketo-and-mochas/attribution.md)
