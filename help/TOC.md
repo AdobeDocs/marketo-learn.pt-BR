@@ -2,10 +2,10 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
+source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 12%
+source-wordcount: '214'
+ht-degree: 11%
 
 ---
 
@@ -57,6 +57,12 @@ ht-degree: 12%
    + [Marcações da reunião](dynamic-chat/meeting-booking.md)
    + [Ativa em 15 minutos](dynamic-chat/go-live-in-15-minutes.md)
    + [Incorporar PDF em conversas](dynamic-chat/document-cloud-integration.md)
+   + [Pesquisar no Designer de fluxo](dynamic-chat/search-in-stream-designer.md)
+   + [Captura de atributos inferidos](dynamic-chat/capture-inferred-attributes.md)
+   + [Visualização da caixa de diálogo](dynamic-chat/dialogue-preview.md)
+   + [Relatório de envolvimento](dynamic-chat/engagement-report.md)
+   + [Globalização de conteúdo estático](dynamic-chat/globalization-of-static-content.md)
+   + [Funções e permissões](dynamic-chat/roles-and-permissions.md)
 + Ações de insight de vendas {#sales-insight-actions}
    + [Visão geral](sales-insight-actions/overview.md)
    + [Visão geral das ações de insight de vendas](sales-insight-actions/sales-insight-actions-overview.md)
