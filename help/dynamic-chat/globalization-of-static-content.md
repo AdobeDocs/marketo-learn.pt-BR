@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 2d78284e9263654ed23c2e791beaa19197e1c7fe
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Globalização de conteúdo estático
 
-Você já pode saber como criar uma caixa de diálogo que não seja em inglês (caso não verifique [here](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)). Agora você pode até personalizar conteúdo estático/do sistema para o idioma de sua escolha.
+Talvez você já saiba como criar um diálogo que não seja em inglês (caso contrário, [clique aqui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Você pode personalizar conteúdo estático/do sistema para o idioma de sua escolha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 
