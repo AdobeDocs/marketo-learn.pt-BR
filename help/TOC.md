@@ -2,10 +2,10 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 11%
+source-wordcount: '217'
+ht-degree: 12%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 11%
    + [Estrutura organizacional](fundamentals/organizational-structure-learn.md)
    + [Marketing de conteúdo](fundamentals/content-marketing-learn.md)
    + [Personas do comprador](fundamentals/buyer-personas-learn.md)
+   + [Programas e campanhas](fundamentals/programs-and-campaigns.md)
 +  por email{#email-marketing}
    + [Email agendado](email-marketing/scheduled-email-learn.md)
    + [Apresentação de email agendada](email-marketing/scheduled-email-watch.md)
@@ -47,7 +48,7 @@ ht-degree: 11%
    + [Apresentação do marketing social](cross-channel-marketing/social-marketing-watch.md)
    + [Personalização da Web](cross-channel-marketing/web-personalization-learn.md)
    + [Apresentação da personalização da Web](cross-channel-marketing/web-personalization-watch.md)
-+ Bate-papo dinâmico {#dynamic-chat}
++ Chat dinâmico {#dynamic-chat}
    + [Tutoriais de bate-papo dinâmico](dynamic-chat/dynamic-chat-overview.md)
    + [Tour do produto](dynamic-chat/product-tour.md)
    + [Configurar e instalar](dynamic-chat/setup.md)
@@ -60,7 +61,7 @@ ht-degree: 11%
    + [Pesquisar no Designer de fluxo](dynamic-chat/search-in-stream-designer.md)
    + [Captura de atributos inferidos](dynamic-chat/capture-inferred-attributes.md)
    + [Visualização da caixa de diálogo](dynamic-chat/dialogue-preview.md)
-   + [Relatório de envolvimento](dynamic-chat/engagement-report.md)
+   + [Relatório de engajamento](dynamic-chat/engagement-report.md)
    + [Globalização de conteúdo estático](dynamic-chat/globalization-of-static-content.md)
    + [Funções e permissões](dynamic-chat/roles-and-permissions.md)
 + Ações de insight de vendas {#sales-insight-actions}
