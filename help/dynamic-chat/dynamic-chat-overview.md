@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ Bem-vindo ao [!UICONTROL Bate-papo dinâmico]  site de tutoriais. Use esses tuto
    *Podemos identificar e preencher atributos inferidos em relação a cada lead capturado pelo Dynamic Chat, aproveitando a ID do Munchkin.*
 * **[Visualização da caixa de diálogo](dialogue-preview.md)**
    *Visualizar sua caixa de diálogo antes de publicar é muito fácil com o recurso Visualização da caixa de diálogo .*
-* **[Relatório de envolvimento](engagement-report.md)**
+* **[Relatório de engajamento](engagement-report.md)**
    *Veja as tendências de como seus visitantes da Web se relacionam com sua caixa de diálogo*
 * **[Globalização de conteúdo estático](globalization-of-static-content.md)**
    *Você pode personalizar conteúdo estático/do sistema para o idioma de sua escolha.*

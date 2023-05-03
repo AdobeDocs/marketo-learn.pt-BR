@@ -1,6 +1,6 @@
 ---
-title: tutoriais do Marketo Engage
-description: Assistir aos tutoriais em vídeo no [!DNL Marketo Engage]. Melhore sua compreensão de como usar os recursos de automação de marketing e muito mais.
+title: Tutoriais do Marketo Engage
+description: Assista aos tutoriais em vídeo [!DNL Marketo Engage]. Melhore sua compreensão de como usar os recursos de automação de marketing e muito mais.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: c6472ca19d0fcf147d53de6ecb8f263f41046e7b
@@ -12,7 +12,7 @@ ht-degree: 20%
 
 # [!DNL Marketo Engage] tutoriais
 
-Navegue pela nossa biblioteca de tutoriais e aproveite ao máximo o [!DNL Marketo Engage]. Esses tutoriais podem ajudar a complementar [[!DNL Marketo] documentação do produto](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} para ajudá-lo a melhorar a sua compreensão dos recursos de automação de marketing.
+Navegue pela biblioteca de tutoriais e obtenha o máximo de [!DNL Marketo Engage]. Esses tutoriais podem ajudar a complementar [[!DNL Marketo] documentação do produto](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} para ajudá-lo a entender melhor os recursos de automação de marketing.
 
 <div id="whats-new-section">
 
@@ -25,19 +25,19 @@ Adicionado recentemente [!DNL Marketo Engage] tutoriais:
    _Use estes tutoriais junto à documentação para melhorar sua compreensão de como usar o Dynamic Chat para criar conversas personalizadas._
 
 * **[[!DNL Sales Insight Actions] tutoriais](/help/sales-insight-actions/overview.md)**
-   _Uso [!UICONTROL Ações do Sales Insight] para acelerar os esforços de prospecção com inteligência baseada em marketing e ferramentas de envolvimento juntas em um único fluxo de trabalho._
+   _Use [!UICONTROL Ações de insight de vendas] para acelerar os esforços de prospecção com inteligência e ferramentas de engajamento de marketing juntas em um único fluxo de trabalho._
 
-* **[Filtragem de tutoriais de atividades de bot por email](filtering-email-bot-activities/setup.md)**
+* **[Filtrar tutoriais de atividades de bot de email](filtering-email-bot-activities/setup.md)**
 
-   _Um guia para ajudá-lo a habilitar a identificação de atividades de email por bots e como você pode filtrar e criar campanhas excluindo bots._
+   _Um guia para ajudá-lo a ativar a identificação de atividades de Email por bots e como você pode filtrar e criar campanhas excluindo bots._
 
-* **[Integração do marketing móvel](cross-channel-marketing/mobile-marketing-learn.md)**
+* **[Integração de marketing móvel](cross-channel-marketing/mobile-marketing-learn.md)**
 
-   _Saiba como desenvolver relacionamentos com seus compradores criando conexões pessoais e em tempo real pela conveniência dos dispositivos móveis._
+   _Saiba como desenvolver relacionamentos com seus compradores criando conexões pessoais e em tempo real por meio da conveniência de dispositivos móveis._
 
 * **[Conteúdo dinâmico e preditivo](email-marketing/dynamic-and-predictive-content-learn.md)**
 
-   _Saiba como utilizar a IA de conteúdo do Marketo e como aplicar conteúdo dinâmico ao trabalhar com o Marketo._
+   _Saiba como utilizar a Marketo Content AI e como aplicar conteúdo dinâmico ao trabalhar com o Marketo._
 
 </div>
 <div id="recs-overview-body-1"></div>
