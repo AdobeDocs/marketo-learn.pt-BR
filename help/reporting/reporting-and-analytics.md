@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13219
 thumbnail: 3419295.jpeg
-source-git-commit: 5675455d53f53e53198a853ce01585f8722aec92
+source-git-commit: fb7fd1d41188048ee7939fc734e10a2ecb26eaf6
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,9 @@ Saiba como navegar na seção Analytics e Banco de dados para obter diferentes r
 
 ## Recursos adicionais
 
-* Visão geral dos relatórios no Marketo Engage
-   [Saiba mais sobre os diferentes relatórios que você pode obter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+* **Documentação do produto**
+Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* Publicação no blog de um especialista: Aprenda com o campeão Chelsea Kiko sobre a criação de vários relatórios: [Relatório em vários espaços de Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* **Publicação de especialista no blog do cliente**
+Aprenda com o Campeão Chelsea Kiko a criar vários relatórios - [Relatório em vários espaços de Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
 
