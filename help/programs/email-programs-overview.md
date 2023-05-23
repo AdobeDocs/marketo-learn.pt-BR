@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
+source-git-commit: c86e4ce20aa651eb836b5e40a1799f7aa6e044a3
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Assista a este tutorial passo a passo para saber como criar um programa de email
 ## Recursos adicionais:
 
 Consulte os guias de produtos relacionados para obter mais informações:
-* [Noções básicas sobre a documentação de Programas de email] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Noções básicas sobre a documentação de Programas de email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Assista a vídeos adicionais para obter mais ajuda sobre este recurso:
 * [Caminho programado por email](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
