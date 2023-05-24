@@ -2,9 +2,9 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 12%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 12%
    + [Marketing de conteúdo](/help/fundamentals/content-marketing-learn.md)
    + [Personas do comprador](/help/fundamentals/buyer-personas-learn.md)
    + [Programas e campanhas](/help/fundamentals/programs-and-campaigns.md)
-+ Introdução {#get-started}
-   + [Navegar na interface](/help/get-started/ui-navigation.md)
+   + [Navegar na interface](/help/fundamentals/ui-navigation.md)
+   + Programas e campanhas {#programs}
+      + [Noções básicas sobre programas e campanhas](help/programs/understanding-programs-and-campaigns.md)
+      + [Programas padrão](/help/programs/default-programs.md)
+      + [Programas de email](/help/programs/email-programs.md)
+      + [Programas de evento](/help/programs/event-programs.md)
+      + [Programas de envolvimento](/help/programs/engagement-programs.md)
 + Programas {#programs}
-   + [Visão geral dos programas padrão](/help/programs/default-programs-overview.md)
-   + [Visão geral dos programas de email](/help/programs/email-programs-overview.md)
-   + [Visão geral dos programas de evento](/help/programs/event-programs-overview.md)
-   + [Visão geral dos programas de envolvimento](/help/programs/engagement-programs-overview.md)
+   + [Noções básicas sobre programas e campanhas](help/programs/understanding-programs-and-campaigns.md)
+   + [Programas padrão](/help/programs/default-programs.md)
+   + [Programas de email](/help/programs/email-programs.md)
+   + [Programas de evento](/help/programs/event-programs.md)
+   + [Programas de envolvimento](/help/programs/engagement-programs.md)
 +  por email{#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
