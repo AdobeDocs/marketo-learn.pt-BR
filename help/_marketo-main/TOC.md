@@ -2,9 +2,9 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 12%
 
 ---
@@ -101,3 +101,5 @@ ht-degree: 12%
    + [Criar um webinário interativo eficiente](/help/events/design-an-effective-interactive-webinar.md)
 + Relatórios e análises {#reporting}
    + [Relatórios e análises](/help/reporting/reporting-and-analytics.md)
++ Integrações {#integrations}
+   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
