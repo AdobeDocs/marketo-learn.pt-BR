@@ -1,20 +1,20 @@
 ---
-title: Como criar um programa de email de conteúdo fechado
-description: Assista à configuração e ao rastreamento de um programa de email de conteúdo hospedado no Marketo.
+title: Como criar um programa de email com conteúdo restrito
+description: Veja como configurar e rastrear um programa de email com conteúdo restrito no Marketo.
 role: User
 level: Beginner
-kt: 10746
+jira: KT-10746
 thumbnail: 345465.jpeg
 exl-id: 03c73fa5-45b1-4f4b-8ffb-2e206bfe2736
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Como criar um programa de email de conteúdo fechado
+# Como criar um programa de email com conteúdo restrito
 
-Assista à configuração e ao rastreamento de um programa de email de conteúdo hospedado no Marketo.
+Veja como configurar e rastrear um programa de email com conteúdo restrito no Marketo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on)
