@@ -2,7 +2,7 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: 9a0c4c02d2ec4b4d093764d93402dab01c603850
+source-git-commit: 7ebebfe56632209babc5a5a27ae21fbdcdf4fdac
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 11%
