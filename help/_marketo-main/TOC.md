@@ -2,9 +2,9 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 11%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 11%
    + [Personas do comprador](/help/fundamentals/buyer-personas-learn.md)
    + [Programas e campanhas](/help/fundamentals/programs-and-campaigns.md)
    + [Navegar na interface](/help/fundamentals/ui-navigation.md)
+   + [Práticas recomendadas para organizar uma nova instância](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Programas e campanhas {#programs-and-campaigns}
    + [Entender programas e campanhas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campanhas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 11%
    + [Sincronização do CRM](/help/lead-and-data-management/crm-sync-learn.md)
    + [Ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Apresentação do ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Gerenciamento de instâncias {#instance-management}
-   + [Práticas recomendadas](/help/instance-management/best-practice-learn.md)
-   + [Apresentação de práticas recomendadas](/help/instance-management/best-practice-watch.md)
 + Eventos {#events}
    + [Apresentação de eventos](/help/events/events-watch.md)
    + [Criação de um programa de evento](/help/events/events-learn.md)
