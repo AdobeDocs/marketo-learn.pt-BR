@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 feature: Programs, Events
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: c34985e01043b34d8f749a1cd0b4e3a83c2efbc6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Criar um webinário interativo eficiente é o primeiro passo para garantir que a entrega do evento do webinário seja envolvente e memorável. Como profissional de marketing, você tem diferentes objetivos para realizar um webinário, como mostrar seu produto para gerar leads, evangelizar um conceito ou uma tecnologia para gerar interesse, fornecer um workshop para envolver leads e muito mais. Objetivos diferentes exigem estratégias diferentes para garantir que você entregue o webinário de maneira ideal para atender às necessidades dos vários segmentos de público-alvo, garantindo que você tenha a participação e o engajamento certos para atingir seus objetivos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?quality=12&learn=on)
