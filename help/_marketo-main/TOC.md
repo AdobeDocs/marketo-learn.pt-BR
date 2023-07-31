@@ -2,10 +2,10 @@
 user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 10%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 11%
       + [Criar e medir um programa padrão](/help/programs/create-and-measure-default-programs.md)
       + [Aproveite a flexibilidade dos programas padrão](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Programas de envolvimento](/help/programs/engagement-programs.md)
+   + Mapas de engajamento {#engagement-maps}
+      + [Visão geral do mapa de engajamento](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Campanhas aninhadas do mapa de engajamento](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Detecção e resolução de erros do mapa de engajamento](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 +  por email{#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
@@ -61,8 +65,8 @@ ht-degree: 11%
    + [Passo a passo do marketing social](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Personalização da Web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Passo a passo da personalização da Web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Chat dinâmico {#dynamic-chat}
-   + [Tutoriais do Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
++ Dynamic Chat {#dynamic-chat}
+   + [tutoriais do Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Tour de produto](/help/dynamic-chat/product-tour.md)
    + [Configurar e instalar](/help/dynamic-chat/setup.md)
    + [Integração do Marketo](/help/dynamic-chat/marketo-integration.md)
