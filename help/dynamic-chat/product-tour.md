@@ -7,18 +7,18 @@ jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 15%
+source-wordcount: '101'
+ht-degree: 14%
 
 ---
 
-# Tour de produto de [!UICONTROL Bate-papo dinâmico]
+# Tour de produto de [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  O é uma nova solução de chatbot criada para marketing e vendas. Ele é integrado nativamente com [!DNL Marketo Engage], que permite usar [!UICONTROL Bate-papo dinâmico]  como um novo canal no marketing entre canais. É simples de usar e fácil de configurar. Faça um tour rápido pelo produto:
+[!UICONTROL Dynamic Chat]  O é uma nova solução de chatbot criada para marketing e vendas. Ele é integrado nativamente com [!DNL Marketo Engage], que permite usar [!UICONTROL Dynamic Chat]  como um novo canal no marketing entre canais. É simples de usar e fácil de configurar. Faça um tour rápido pelo produto:
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 

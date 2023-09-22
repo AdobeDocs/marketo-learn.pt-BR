@@ -9,9 +9,9 @@ jira: KT-12965
 thumbnail: 3416923.jpeg
 exl-id: b9bf800d-5d96-4a58-8296-f9466186a68c
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 Visualizar a caixa de diálogo antes de publicar é muito fácil com o recurso de visualização da caixa de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 
-* [Adicionar e gerenciar usuários do [!UICONTROL Bate-papo dinâmico]](user-management.md)
+* [Adicionar e gerenciar usuários do [!UICONTROL Dynamic Chat]](user-management.md)
 * [Criar e gerenciar caixas de diálogo personalizadas](dialogue-management.md)
-* [Ativar a integração do Marketo com [!UICONTROL Bate-papo dinâmico]](marketo-integration.md)
+* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
