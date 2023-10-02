@@ -9,16 +9,16 @@ hidefromtoc: false
 last-substantial-update: 2023-07-31T00:00:00Z
 jira: KT-13740
 thumbnail: 3422232.jpeg
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: 9bb2499e-8a0c-4fdc-89c8-ef467cafc363
+source-git-commit: 5f39a3d1a845aad7faf5fce1f9de4deae93495af
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
-
 # Visão geral do mapa de engajamento
 
-Saiba como criar campanhas reutilizáveis e aumentar a velocidade usando o Mapa de engajamento
+Saiba como o Mapa de engajamento pode aumentar a velocidade da campanha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
