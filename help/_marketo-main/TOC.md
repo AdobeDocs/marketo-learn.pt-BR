@@ -3,9 +3,9 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
+source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 11%
 
 ---
@@ -74,6 +74,8 @@ ht-degree: 11%
    + [Integração do Marketo](/help/dynamic-chat/marketo-integration.md)
    + [Gerenciamento de usuários](/help/dynamic-chat/user-management.md)
    + [Gerenciamento de diálogo](/help/dynamic-chat/dialogue-management.md)
+   + [Configurar bate-papo ao vivo](/help/dynamic-chat/set-up-live-chat.md)
+   + [Gerenciamento de agentes](/help/dynamic-chat/agent-management.md)
    + [Reservas da reunião](/help/dynamic-chat/meeting-booking.md)
    + [Entrar em funcionamento em 15 minutos](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [Inserir PDF em conversas](/help/dynamic-chat/document-cloud-integration.md)
@@ -96,7 +98,7 @@ ht-degree: 11%
    + [Sincronização do CRM](/help/lead-and-data-management/crm-sync-learn.md)
    + [Ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Apresentação do ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Eventos {#events}
++ Eventos do {#events}
    + [Apresentação de eventos](/help/events/events-watch.md)
    + [Criação de um programa de evento](/help/events/events-learn.md)
    + [Webinars](/help/events/webinar-learn.md)
