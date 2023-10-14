@@ -3,9 +3,9 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 11%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 11%
    + [Práticas recomendadas para organizar uma nova instância](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar com tokens](/help/personalization/personalize-with-tokens.md)
-   + [Auditoria de instância herdada](/help/fundamentals/inherted-instance-audit.md)
+   + [Auditoria de uma instância herdada](/help/fundamentals/inherted-instance-audit.md)
 + Programas e campanhas {#programs-and-campaigns}
    + [Entender programas e campanhas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campanhas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 11%
    + [Acessar a instância de ações do Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurar o log de atividade de vendas para [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Cliente potencial e gerenciamento de dados {#lead-and-data-management}
-   + [Pontuação de lead](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Apresentação da pontuação de lead](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Pontuação de lead/pessoa](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Passo a passo da pontuação do cliente potencial/pessoa](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Central de assinaturas](/help/lead-and-data-management/subscription-center-learn.md)
    + [Apresentação da central de assinaturas](/help/lead-and-data-management/subscription-center-watch.md)
    + [Sincronização do CRM](/help/lead-and-data-management/crm-sync-learn.md)
