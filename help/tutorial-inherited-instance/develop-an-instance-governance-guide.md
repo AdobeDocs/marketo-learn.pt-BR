@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 À medida que você pisa em um legado [!DNL Marketo Engage] por exemplo, muitas vezes vem com o desafio de falta de documentação funcional e técnica atualizada. Como administrador, estabelecer diretrizes para garantir o controle adequado da instância é uma responsabilidade principal que não pode ser ignorada. É uma das estratégias [eficiência da unidade conforme você trabalha em uma instância de Marketo Engage estabelecida](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Este tutorial passo a passo tem como origem [!DNL Adobe Marketo Champion]O, Nick Hajdin, orientará você durante esse processo para destacar a configuração da instância, documentar os principais programas operacionais e manter uma [!DNL changelog] para aplicar uma política de governança rigorosa.
+Este tutorial passo a passo tem como origem [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, guiará você por esse processo para destacar sua configuração de instância, documentar seus principais programas operacionais e manter uma [!DNL changelog] para aplicar uma política de governança rigorosa.
 
 ## Por que desenvolver um guia e uma documentação de governança de instância para sua instância herdada?
 

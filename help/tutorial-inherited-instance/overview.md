@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-09-07T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -35,7 +35,6 @@ Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, pr
 
 * **[Desenvolver um guia de governança de instância](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *Saiba como obter ganhos rápidos de eficiência para otimizar as operações de build, governança e marketing geral*
-
 
 * **[Mapear visualmente sua pilha de tecnologia de marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *Saiba como mapear fontes de dados com um diagrama de arquitetura visual para entender sua pilha técnica*
