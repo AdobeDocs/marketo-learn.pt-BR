@@ -3,9 +3,9 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '332'
 ht-degree: 11%
 
 ---
@@ -111,4 +111,6 @@ ht-degree: 11%
    + [Relatórios e análises](/help/reporting/reporting-and-analytics.md)
    + [Relatórios principais](/help/reporting/key-reports.md)
 + Integrações {#integrations}
-   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"}
+   + [Introdução à sincronização do Salesforce](/help/integrations/salesforce-sync-setup.md)
+   + [Introdução à sincronização do Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
