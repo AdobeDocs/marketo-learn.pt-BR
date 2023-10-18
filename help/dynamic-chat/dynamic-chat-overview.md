@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 Bem-vindo à [!UICONTROL Dynamic Chat]  site de tutoriais. Use esses tutoriais junto à documentação para melhorar sua compreensão de como usar o [!UICONTROL Dynamic Chat]  para criar conversas personalizadas. Os seguintes tópicos podem ajudar você a começar:
 
 * Visão geral
-   * **[Um tour rápido pelo produto](product-tour.md)**
+   * **[Um tour rápido pelo produto [2023]](product-tour.md)**
+     *Obtenha uma visão geral de todos os novos recursos lançados em 2023.*
+   * **[Um tour rápido pelo produto [2022]](product-tour.md)**
      *Obtenha uma visão geral de todo o produto e saiba como você pode aproveitar [!UICONTROL Dynamic Chat].*
    * **[Entrar em funcionamento em 15 minutos](go-live-in-15-minutes.md)**
      *Um guia passo a passo para ajudá-lo a fazer a ativação com sua primeira caixa de diálogo usando [!UICONTROL Dynamic Chat]  em apenas 15 minutos!*
@@ -50,9 +52,11 @@ Bem-vindo à [!UICONTROL Dynamic Chat]  site de tutoriais. Use esses tutoriais j
      *Você pode personalizar o conteúdo estático/do sistema para o idioma de sua escolha.*
    * **[Formulários de conversação](conversational-forms.md)**
      *Saiba como envolver os visitantes do site imediatamente após preencherem um formulário.*
+   * **[SDK de conversas](conversations-sdk.md)**
+     *Saiba como implementar o SDK de conversas para converter qualquer clique de CTA em uma conversa envolvente.*
 * Chat ao vivo e reserva de reunião
-   * **[Configurar bate-papo ao vivo](set-up-live-chat.md)**
-     *Saiba como configurar o bate-papo em tempo real.*
+   * **[Conectar visitantes a agentes em tempo real](connect-visitors-to-live-agents.md)**
+     *Conecte seus leads qualificados para interagir instantaneamente com seus agentes de vendas.*
    * **[Permitir que seus clientes potenciais agendem reuniões com seus representantes de vendas](meeting-booking.md)**
      *Acelere a conexão com as vendas para esses [!DNL target] contas com funcionalidades de reserva de reunião.*
 * Analytics

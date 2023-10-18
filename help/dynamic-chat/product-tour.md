@@ -1,28 +1,28 @@
 ---
 title: Tour de produto do Dynamic Chat
-description: Saiba mais sobre o Dynamic Chat, uma nova solução de chatbot da Adobe criada para marketing e vendas.
+description: Conheça o Dynamic Chat, uma nova solução de bate-papo criada para marketing e vendas pela Adobe.
 role: User
 level: Beginner
-jira: KT-9697
-thumbnail: 340473.jpeg
-exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-feature: Dynamic Chat
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+doc-type: Feature Video
+last-substantial-update: 2023-10-18T00:00:00Z
+jira: KT-14209
+thumbnail: 3425033.jpeg
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# Tour de produto de [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  O é uma nova solução de chatbot criada para marketing e vendas. Ele é integrado nativamente com [!DNL Marketo Engage], que permite usar [!UICONTROL Dynamic Chat]  como um novo canal no marketing entre canais. É simples de usar e fácil de configurar. Faça um tour rápido pelo produto:
+# Tour de produto de [!UICONTROL Dynamic Chat] [2023]
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+Envolva seus visitantes da Web com conversas personalizadas que gerarão leads, responderão a perguntas do visitante com o poder da GenAI, encaminharão para um agente de vendas e também redirecionarão leads de chat por outros canais para impulsionar reservas de reuniões.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425033/?learn=on)
 
 ## Vídeos mais úteis
 
+* [Tour pelo produto [2022]](product-tour-2022.md)
 * [Configurar e instalar seu chatbot](setup.md)
-* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [Adicionar e gerenciar usuários do [!UICONTROL Dynamic Chat]](user-management.md)
 * [Entre em operação em apenas 15 minutos](go-live-in-15-minutes.md)
