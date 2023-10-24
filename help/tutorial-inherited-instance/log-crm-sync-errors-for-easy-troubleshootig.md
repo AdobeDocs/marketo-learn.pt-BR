@@ -9,9 +9,9 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -52,8 +52,8 @@ Antes de começar, baixe o [Modelo de log de erros de sincronização do CRM](/h
 ## Autores
 
 **Amy Goldfine**\
-Adobe Marketo Champion(2022)
-*Gerente sênior, Operações de marketing, Iterável*
+Adobe Marketo Champion(2019-2022)
+*Fundador, MarketingOpsAdvice.com*
 
 ![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
