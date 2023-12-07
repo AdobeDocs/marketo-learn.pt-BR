@@ -3,10 +3,10 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 11%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 11%
       + [Visão geral do mapa de engajamento](/help/engagement-maps/engagement-map-overview.md)
       + [Campanhas aninhadas do mapa de engajamento](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detecção e resolução de erros do mapa de engajamento](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+  por email{#email-marketing}
++ Marketing por email {#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
    + [Boletim informativo personalizado](/help/email-marketing/personalized-newsletter-learn.md)
@@ -87,7 +87,6 @@ ht-degree: 11%
    + [Visualização da caixa de diálogo](/help/dynamic-chat/dialogue-preview.md)
    + [Relatório de engajamento](/help/dynamic-chat/engagement-report.md)
    + [Globalização de conteúdo estático](/help/dynamic-chat/globalization-of-static-content.md)
-   + [Funções e permissões](/help/dynamic-chat/roles-and-permissions.md)
 + Ações do Sales Insight {#sales-insight-actions}
    + [Visão geral](/help/sales-insight-actions/overview.md)
    + [Visão geral das ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
@@ -101,7 +100,7 @@ ht-degree: 11%
    + [Sincronização do CRM](/help/lead-and-data-management/crm-sync-learn.md)
    + [Ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Apresentação do ciclo de vida do lead](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Eventos do {#events}
++ Eventos {#events}
    + [Apresentação de eventos](/help/events/events-watch.md)
    + [Criação de um programa de evento](/help/events/events-learn.md)
    + [Webinars](/help/events/webinar-learn.md)
