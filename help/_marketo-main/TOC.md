@@ -3,9 +3,9 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '337'
 ht-degree: 9%
 
 ---
@@ -68,25 +68,32 @@ ht-degree: 9%
    + [Personalização da Web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Passo a passo da personalização da Web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [tutoriais do Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Tour pelo produto [2023]](/help/dynamic-chat/product-tour.md)
-   + [Tour pelo produto [2022]](/help/dynamic-chat/product-tour-2022.md)
-   + [Configurar e instalar](/help/dynamic-chat/setup.md)
-   + [Integração do Marketo](/help/dynamic-chat/marketo-integration.md)
-   + [Gerenciamento de usuários](/help/dynamic-chat/user-management.md)
-   + [Formulários de conversação](/help/dynamic-chat/conversational-forms.md)
-   + [SDK de conversas](/help/dynamic-chat/conversations-sdk.md)
-   + [Gerenciamento de diálogo](/help/dynamic-chat/dialogue-management.md)
-   + [Conectar visitantes a agentes em tempo real](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-   + [Gerenciamento de agentes](/help/dynamic-chat/agent-management.md)
-   + [Reservas da reunião](/help/dynamic-chat/meeting-booking.md)
-   + [Entrar em funcionamento em 15 minutos](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + [Inserir PDF em conversas](/help/dynamic-chat/document-cloud-integration.md)
-   + [Pesquisar no Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
-   + [Captura de atributos inferidos](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [Visualização da caixa de diálogo](/help/dynamic-chat/dialogue-preview.md)
-   + [Relatório de engajamento](/help/dynamic-chat/engagement-report.md)
-   + [Globalização de conteúdo estático](/help/dynamic-chat/globalization-of-static-content.md)
+   + Comece já {#dc-overview}
+      + [Visão geral](/help/dynamic-chat/dynamic-chat-overview.md)
+      + [Tour pelo produto [2023]](/help/dynamic-chat/product-tour.md)
+      + [Tour pelo produto [2022]](/help/dynamic-chat/product-tour-2022.md)
+      + [Entrar em funcionamento em 15 minutos](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + Configuração {#dc-setup}
+      + [Configurar e instalar](/help/dynamic-chat/setup.md)
+      + [Integração do Marketo](/help/dynamic-chat/marketo-integration.md)
+      + [Gerenciamento de usuários](/help/dynamic-chat/user-management.md)
+      + [Gerenciamento de agentes](/help/dynamic-chat/agent-management.md)
+   + Chat automatizado {#dc-automated-chat}
+      + [Gerenciamento de diálogo](/help/dynamic-chat/dialogue-management.md)
+      + [Inserir PDF em conversas](/help/dynamic-chat/document-cloud-integration.md)
+      + [Pesquisar no Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
+      + [Captura de atributos inferidos](/help/dynamic-chat/capture-inferred-attributes.md)
+      + [Visualização da caixa de diálogo](/help/dynamic-chat/dialogue-preview.md)
+      + [Globalização de conteúdo estático](/help/dynamic-chat/globalization-of-static-content.md)
+      + [Formulários de conversação](/help/dynamic-chat/conversational-forms.md)
+      + [SDK de conversas](/help/dynamic-chat/conversations-sdk.md)
+   + Chat ao vivo e reserva de reunião {#dc-live-chat-meeting-booking}
+      + [Conectar visitantes a agentes em tempo real](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+      + [Reservas da reunião](/help/dynamic-chat/meeting-booking.md)
+   + Chat de IA gerativa {#dc-generative-ai-chat}
+      + [Impulsionar conversas alimentadas pela GenAI](/help/dynamic-chat/gen-ai-features.md)
+   + Analytics {#dc-analytics}
+      + [Relatório de engajamento](/help/dynamic-chat/engagement-report.md)
 + Ações do Sales Insight {#sales-insight-actions}
    + [Visão geral](/help/sales-insight-actions/overview.md)
    + [Visão geral das ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
