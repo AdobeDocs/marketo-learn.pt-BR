@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: b598324c7361191dce365157abbe9a2e45739820
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -52,6 +52,8 @@ Bem-vindo à [!UICONTROL Dynamic Chat]  site de tutoriais. Use esses tutoriais j
      *Saiba como envolver os visitantes do site imediatamente após preencherem um formulário.*
    * **[SDK de conversas](conversations-sdk.md)**
      *Saiba como implementar o SDK de conversas para converter qualquer clique de CTA em uma conversa envolvente.*
+   * **[Páginas de aterrissagem de conversa](conversational-landing-pages.md)**
+     *Com apenas alguns cliques, instale o Dynamic Chat Conversational Fflows em qualquer página de aterrissagem (Marketo Landing Pages ou Custom) e converta qualquer link ou botão para acionar um engajamento de conversação.*
 * Chat ao vivo e reserva de reunião
    * **[Conectar visitantes a agentes em tempo real](connect-visitors-to-live-agents.md)**
      *Conecte seus leads qualificados para interagir instantaneamente com seus agentes de vendas.*
@@ -63,4 +65,3 @@ Bem-vindo à [!UICONTROL Dynamic Chat]  site de tutoriais. Use esses tutoriais j
 * Analytics
    * **[Relatório de engajamento](engagement-report.md)**
      *Veja as tendências de como os visitantes da Web se envolvem com a caixa de diálogo.*
-
