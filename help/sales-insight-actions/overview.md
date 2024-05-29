@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ![](assets/header.png)
 
 Uso [!UICONTROL Ações do Sales Insight] para acelerar os esforços de prospecção com inteligência baseada em marketing e ferramentas de envolvimento juntas em um único fluxo de trabalho.
-
->[!AVAILABILITY]
->
->No momento, esse recurso está em uma implantação em fases. Entre em contato com o Gerente de sucesso do cliente ou envie um email para `sales-insights(at)adobe(dot)com` para solicitar acesso.
 
 ## Tutorials em destaque {#featured-tutorials}
 
@@ -63,11 +59,3 @@ Uso [!UICONTROL Ações do Sales Insight] para acelerar os esforços de prospec�
 </td>
 </tr>
 </table>
-
-## Suporte personalizado {#personalized-support}
-
-Para receber suporte personalizado para este recurso, [agendar uma chamada](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) com a Equipe de produtos.
-
-## Relatar um erro/Feedback {#report-a-bug-feedback}
-
-Se você encontrar um erro ou tiver algum feedback geral sobre esse recurso, envie um email para `sales-insights(at)adobe(dot)com`.
