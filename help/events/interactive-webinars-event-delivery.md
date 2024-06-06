@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 119
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15700
-source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
+exl-id: 71feb0cc-3f3e-4396-8bb0-21dbc244cfc8
+source-git-commit: e7d640c69d32829850d1b7628273bc79130944b2
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-
 # Entrega de evento de webinários interativos
 
-Saiba como fornecer seu Evento de webinários interativos de maneira ideal para atingir seu objetivo e envolver os participantes para garantir que o conteúdo gere interesse, e os profissionais de marketing podem solicitar a intenção por meio de diferentes ferramentas de engajamento para ajudar a melhorar a segmentação e a criação personalizada.
+Saiba como fornecer seu Evento de webinários interativos de maneira ideal para atingir seu objetivo e envolver os participantes. Certifique-se de que o conteúdo gere interesse para que você possa solicitar a intenção por meio de diferentes ferramentas de envolvimento para ajudar a personalizar melhor a criação e a segmentação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
