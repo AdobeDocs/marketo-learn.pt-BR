@@ -10,13 +10,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
+exl-id: 2a88c233-ef13-47da-ae2a-5f0ace7a07e5
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 1%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
-
 
 # Introdução à sincronização do Salesforce
 
@@ -26,18 +26,18 @@ Saiba como o Marketo Engage e o Salesforce se unem para manter seus dados de ven
 
 ## Links usados no vídeo
 
-* [Como entender a sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+* [Entendendo a sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 * [Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
 
 * [Criar um usuário do Marketo no Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html)
 
-* [Conecte o Marketo e o Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
+* [Conecte o Marketo e o Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
 
-* [Os usuários precisariam Configurar o aplicativo conectado no lado do Salesforce antes de prosseguir para a sincronização do Marketo e do Salesforce.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
+* [Os usuários precisariam Configurar o Aplicativo Conectado no Salesforce antes de prosseguir para a sincronização do Marketo e do Salesforce.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
 
-* [Status da sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
+* [Status de sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
 
-* [Ocultar e reexibir um campo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html)
+* [Ocultar e Reexibir um Campo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html)
 
 * [Tutorial: saiba mais sobre como sincronizar o Marketo com seu CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)

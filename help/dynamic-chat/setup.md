@@ -1,6 +1,6 @@
 ---
 title: Configurar e instalar seu chatbot
-description: Saiba como instalar e configurar [!UICONTROL Dynamic Chat] para primeira utilização.
+description: Saiba como instalar e configurar o [!UICONTROL Dynamic Chat] para o primeiro uso.
 role: User
 level: Beginner
 jira: KT-9693
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Configurar e instalar seu chatbot
 
-Um guia para ajudá-lo a instalar o chatbot com JavaScript em seu site ou página de aterrissagem e a personalizar a aparência para corresponder à sua marca.
+Um guia para ajudá-lo a instalar o chatbot JavaScript em seu site ou página de aterrissagem e personalizar sua aparência para corresponder à sua marca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
 

@@ -32,5 +32,5 @@ As campanhas inteligentes são o mecanismo do Marketo. Além de usar as Campanha
 
 **Publicações de especialistas no blog do cliente:**
 
-* [Campanhas inteligentes 101: aprofundamento do recurso mais eficiente da Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Série Sucesso do Marketo: Campanhas inteligentes](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [Campanhas Inteligentes 101: Mais Detalhes Sobre O Recurso Mais Eficiente Da Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Série de Êxitos do Marketo: Campanhas Inteligentes](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

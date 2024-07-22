@@ -1,6 +1,6 @@
 ---
 title: Saiba como criar um programa de ciclo de vida da pessoa
-description: Você sabe quantos clientes potenciais estão em cada estágio da jornada do comprador e quando as vendas devem entrar em contato com eles? Saiba como criar um [!UICONTROL ciclo de vida da pessoa] programa que usa a pontuação para obter insights sobre onde seus clientes potenciais estão em sua jornada.
+description: Você sabe quantos clientes potenciais estão em cada estágio da jornada do comprador e quando as vendas devem entrar em contato com eles? Saiba mais sobre como criar um programa do [!UICONTROL ciclo de vida da pessoa] que use pontuação para obter insights sobre onde seus clientes potenciais estão em sua jornada.
 role: User
 level: Beginner
 jira: KT-10738
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Saiba como criar um programa de ciclo de vida da pessoa
 
-Você sabe quantos clientes potenciais estão em cada estágio da jornada do comprador e quando as vendas devem entrar em contato com eles? Saiba como criar um [!UICONTROL ciclo de vida da pessoa] programa que usa a pontuação para obter insights sobre onde seus clientes potenciais estão em sua jornada.
+Você sabe quantos clientes potenciais estão em cada estágio da jornada do comprador e quando as vendas devem entrar em contato com eles? Saiba mais sobre como criar um programa do [!UICONTROL ciclo de vida da pessoa] que use pontuação para obter insights sobre onde seus clientes potenciais estão em sua jornada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}

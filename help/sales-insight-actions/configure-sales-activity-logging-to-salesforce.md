@@ -1,6 +1,6 @@
 ---
-title: Configurar o registro da atividade de vendas para [!DNL Salesforce]
-description: Configurar o registro da atividade de vendas para [!DNL Salesforce]
+title: Configurar o registro da atividade de vendas para  [!DNL Salesforce]
+description: Configurar o registro da atividade de vendas para  [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Configurar o registro da atividade de vendas para [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-Saiba como configurar e registrar atividades do Sales Insight Actions no seu [!DNL Salesforce] conta.
+Saiba como configurar e registrar atividades de Ações do Insight de vendas na sua conta do [!DNL Salesforce].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## Vídeos relacionados
 
 * [Visão geral das ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Acessar o seu [!DNL Sales Insight Actions] Instância](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Acessando Sua [!DNL Sales Insight Actions] Instância](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

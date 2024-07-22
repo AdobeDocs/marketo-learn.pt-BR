@@ -11,14 +11,14 @@ exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
 feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Globalização de conteúdo estático
 
-Talvez você já saiba como criar uma caixa de diálogo em outro idioma (caso contrário, [clique aqui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Você pode personalizar o conteúdo estático/do sistema para o idioma de sua escolha.
+Talvez você já saiba como criar uma caixa de diálogo em outros idiomas (caso contrário, [clique aqui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Você pode personalizar o conteúdo estático/do sistema para o idioma de sua escolha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
 
@@ -26,4 +26,4 @@ Talvez você já saiba como criar uma caixa de diálogo em outro idioma (caso co
 
 * [Adicionar e gerenciar usuários do [!UICONTROL Dynamic Chat]](user-management.md)
 * [Criar e gerenciar caixas de diálogo personalizadas](dialogue-management.md)
-* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Ative sua Integração do Marketo com o [!UICONTROL Dynamic Chat]](marketo-integration.md)

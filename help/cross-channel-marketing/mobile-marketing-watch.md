@@ -1,6 +1,6 @@
 ---
 title: Como integrar marketing para dispositivos móveis com o Marketo
-description: Veja como criar personas de compradores, definir KPIs, determinar sua cadência de comunicação, usar [!DNL Marketo’s] Calendário de marketing e muito mais para melhorar sua estratégia de marketing móvel.
+description: Veja como criar personas de compradores, definir KPIs, determinar sua cadência de comunicação, usar o  [!DNL Marketo’s] Calendário de marketing e muito mais para melhorar sua estratégia de marketing para dispositivos móveis.
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Integrar marketing para dispositivos móveis com o Marketo
 
-Veja como criar personas de compradores, definir KPIs, determinar sua cadência de comunicação, usar o [!DNL Marketo] Calendário de marketing e muito mais para melhorar sua estratégia de marketing móvel.
+Veja como criar personas de compradores, definir KPIs, determinar sua cadência de comunicação, usar o [!DNL Marketo] Calendário de marketing e muito mais para melhorar sua estratégia de marketing para dispositivos móveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

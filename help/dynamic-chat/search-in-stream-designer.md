@@ -26,4 +26,4 @@ Uma pesquisa rápida pode ajudá-lo a acessar qualquer cartão no designer de fl
 
 * [Visualização da caixa de diálogo](dialogue-preview.md)
 * [Criar e gerenciar caixas de diálogo personalizadas](dialogue-management.md)
-* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Ative sua Integração do Marketo com o [!UICONTROL Dynamic Chat]](marketo-integration.md)

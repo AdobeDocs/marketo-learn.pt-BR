@@ -1,6 +1,6 @@
 ---
 title: Como envolver visitantes com a personalização da Web
-description: Veja como se conectar [!DNL Marketo] para vários de nossos parceiros de publicidade digital do LaunchPoint.
+description: Veja como se conectar [!DNL Marketo] a vários de nossos parceiros de publicidade digital do LaunchPoint.
 role: User
 level: Beginner
 jira: KT-10726
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Como envolver visitantes com a personalização da Web
 
-Veja como se conectar [!DNL Marketo] para vários de nossos parceiros de publicidade digital do LaunchPoint.
+Veja como conectar o [!DNL Marketo] a vários de nossos parceiros de publicidade digital do LaunchPoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

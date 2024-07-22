@@ -21,4 +21,4 @@ Acelere os esforços de prospecção com inteligência baseada em marketing e fe
 ## Vídeos relacionados
 
 * [Configurar o registro da atividade de vendas para [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Acessar o seu [!DNL Sales Insight Actions] Instância](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Acessando Sua [!DNL Sales Insight Actions] Instância](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

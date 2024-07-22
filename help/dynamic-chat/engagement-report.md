@@ -26,4 +26,4 @@ Agora veja as tendências de como os visitantes da Web se envolvem com a caixa d
 
 * [Adicionar e gerenciar usuários do [!UICONTROL Dynamic Chat]](user-management.md)
 * [Criar e gerenciar caixas de diálogo personalizadas](dialogue-management.md)
-* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Ative sua Integração do Marketo com o [!UICONTROL Dynamic Chat]](marketo-integration.md)

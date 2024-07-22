@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Adicionar e gerenciar usuários do [!UICONTROL Dynamic Chat]
 
-Gerencie seu [!UICONTROL Dynamic Chat]  usuários por meio do Adobe Admin Console.
+Gerencie seus usuários do [!UICONTROL Dynamic Chat] por meio do Adobe Admin Console.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 
 * [Criar e gerenciar caixas de diálogo personalizadas](dialogue-management.md)
-* [Ativar a integração do Marketo com [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Ative sua Integração do Marketo com o [!UICONTROL Dynamic Chat]](marketo-integration.md)
 * [Permitir que seus clientes potenciais agendem reuniões com seus representantes de vendas](meeting-booking.md)

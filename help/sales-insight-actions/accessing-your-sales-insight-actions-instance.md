@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Acessando a instância de ações do Sales Insight {#accessing-your-sales-insight-actions-instance}
 
-Este vídeo fornece uma visão geral de como acessar o [!UICONTROL Ações do Sales Insight] para criar conteúdo, configurar sua conta, convidar novo usuário e muito mais.
+Este vídeo fornece uma visão geral de como acessar sua conta do [!UICONTROL Sales Insight Actions] para criar conteúdo, configurar sua conta, convidar novo usuário e muito mais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
 

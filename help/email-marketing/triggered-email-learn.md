@@ -1,6 +1,6 @@
 ---
 title: Saiba mais sobre como criar campanhas de email acionadas
-description: Saiba como usar o [!DNL Marketo] para capitalizar os comportamentos do comprador usando campanhas de email acionadas para participar de mensagens oportunas e relevantes.
+description: Saiba como usar o [!DNL Marketo] para capitalizar os comportamentos do comprador usando campanhas de email acionadas para interagir com mensagens oportunas e relevantes.
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Saiba mais sobre como criar campanhas de email acionadas
 
-Saiba como usar o [!DNL Marketo] para capitalizar os comportamentos do comprador usando campanhas de email acionadas para participar de mensagens oportunas e relevantes.
+Saiba como usar o [!DNL Marketo] para capitalizar os comportamentos do comprador usando campanhas de email acionadas para interagir com mensagens relevantes e oportunas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

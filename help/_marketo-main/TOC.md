@@ -58,7 +58,7 @@ ht-degree: 8%
    + [Apresentação de email acionada](/help/email-marketing/triggered-email-watch.md)
    + [Alimentação de chumbo](/help/email-marketing/lead-nuturing-learn.md)
    + [Conteúdo dinâmico e preditivo](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtragem de atividades de bot de email - Configuração](/help/filtering-email-bot-activities/setup.md)
+   + [Filtrando atividades de bot de email - Configuração](/help/filtering-email-bot-activities/setup.md)
 + Marketing entre canais {#cross-channel-marketing}
    + [Apresentação do Forms](/help/email-marketing/forms-watch.md)
    + [Integração do marketing móvel](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -96,8 +96,8 @@ ht-degree: 8%
    + [Visão geral](/help/sales-insight-actions/overview.md)
    + [Visão geral das ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Acessar a instância de ações do Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Configurar o log de atividade de vendas para [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Cliente potencial e gerenciamento de dados {#lead-and-data-management}
+   + [Configurar o log de atividade de vendas para  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Cliente em potencial e gerenciamento de dados {#lead-and-data-management}
    + [Pontuação de lead/pessoa](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Passo a passo da pontuação do cliente potencial/pessoa](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Central de assinaturas](/help/lead-and-data-management/subscription-center-learn.md)

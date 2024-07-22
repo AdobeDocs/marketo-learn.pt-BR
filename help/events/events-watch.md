@@ -9,7 +9,7 @@ exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
 feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Saiba como criar um programa de evento de feiras comerciais com base em um progr
 
 Consulte o guia do produto para obter mais informações sobre como criar um programa de evento:
 
-* [Documentação Criar um novo programa de evento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Criar uma nova documentação de programa de evento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)

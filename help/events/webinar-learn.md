@@ -1,6 +1,6 @@
 ---
 title: Saiba como criar e executar um programa de webinário
-description: Pronto para executar um webinário como parte de suas atividades de marketing? Saiba como os webinários funcionam com a [!DNL Marketo Engage] e seus parceiros do webinário Adobe Exchange.
+description: Pronto para executar um webinário como parte de suas atividades de marketing? Saiba como os webinários funcionam com o [!DNL Marketo Engage]  e seus parceiros de webinário do Adobe Exchange.
 role: User
 level: Beginner
 jira: KT-10758
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Saiba como criar e executar um programa de webinário
 
-Pronto para executar um webinário como parte de suas atividades de marketing? Saiba como os webinários funcionam com a [!DNL Marketo Engage] e seus parceiros do webinário Adobe Exchange.
+Pronto para executar um webinário como parte de suas atividades de marketing? Saiba como os webinários funcionam com o [!DNL Marketo Engage] e seus parceiros de webinário do Adobe Exchange.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
