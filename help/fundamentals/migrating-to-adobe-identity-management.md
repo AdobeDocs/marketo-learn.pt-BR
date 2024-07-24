@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Veja abaixo um exemplo de email para enviar aos Administradores do sistema. Norm
 
 Prezado(a) `[IT Administrator/NAME]`,
 
-Nossa assinatura do Marketo Engage será migrada em breve para o Sistema Adobe Identity Management. A [equipe de Operação de Marketing] precisa de sua ajuda para concluir algumas etapas necessárias antes de começar a migração do usuário, para minimizar o impacto nos usuários do Marketo Engage
+Nossa assinatura do Marketo Engage será migrada em breve para o Sistema Adobe Identity Management. O `[Marketing Operation team]` precisa de sua ajuda para concluir algumas etapas necessárias antes de iniciar a migração do usuário, para minimizar o impacto nos usuários do Marketo Engage.
 
 `1.` Confirme se a organização já gerencia outros produtos Adobe na(s) Adobe Admin Console(s) e se o Marketo Engage será migrado para o mesmo console.
 
@@ -123,12 +123,12 @@ ii) Uma sessão de usuário ativa é necessária para o sucesso da verificação
 i. Aceite o novo convite clicando no botão &quot;Aceitar convite&quot; e entrando usando a Identidade do Adobe.
 ii) Na página de logon do Adobe, faça logon com uma Adobe ID existente.
 
-`3.` Contato: Se tiver dúvidas ou precisar de assistência após a migração da sua conta ou se a conta não for migrada e você perder acesso ao Marketo Engage, entre em contato com a equipe de migração do Marketo Engage em [seu email/telefone de contato interno].
+`3.` Contato: Se tiver dúvidas ou precisar de assistência após a migração da sua conta ou se a conta não for migrada e você perder acesso ao Marketo Engage, entre em contato com a equipe de migração do Marketo Engage em `[your internal contact email/phone]`.
 
 Agradecemos sua cooperação durante essa transição. Agradecemos sua compreensão e seu compromisso em manter nossos sistemas seguros.
 
 Melhor,
 
-[Seu nome]
+`[Your Name]`
 
 `---------------------------------------------------`
