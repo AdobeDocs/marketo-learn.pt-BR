@@ -1,7 +1,7 @@
 ---
 title: Criar um webinário interativo eficiente
-description: Saiba como criar um webinário interativo eficiente
-short-description: Saiba como projetar um Webinário interativo eficaz, o primeiro passo para garantir que seu evento de webinário seja envolvente e memorável.
+description: Aprenda a criar e projetar um webinário interativo eficaz
+short-description: Saiba como projetar um webinário interativo eficaz, que é o primeiro passo para garantir que seu evento de webinário seja interessante e inesquecível.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
@@ -11,7 +11,7 @@ exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 
