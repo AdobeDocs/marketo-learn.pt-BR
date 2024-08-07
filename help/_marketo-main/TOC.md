@@ -3,10 +3,10 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 8%
+source-wordcount: '381'
+ht-degree: 9%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 8%
    + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar com tokens](/help/personalization/personalize-with-tokens.md)
    + [Implementar uma nova instância - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Auditoria de uma instância herdada - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Auditoria de uma instância herdada - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=pt-BR)
 + Programas e campanhas {#programs-and-campaigns}
    + [Entender programas e campanhas](/help/programs/understanding-programs-and-campaigns.md)
-   + [Campanhas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
+   + [Noções básicas sobre Campanhas inteligentes](/help/campaigns/smart-campaigns-101.md)
    + [Programas de email](/help/programs/email-programs.md)
    + [Programas de evento](/help/programs/event-programs.md)
    + Programas padrão {#default-programs}
@@ -110,7 +110,7 @@ ht-degree: 8%
 + Eventos {#events}
    + [Apresentação de eventos](/help/events/events-watch.md)
    + [Criação de um programa de evento](/help/events/events-learn.md)
-   + [Webinars](/help/events/webinar-learn.md)
+   + [Webinários](/help/events/webinar-learn.md)
    + [Apresentação dos webinários](/help/events/webinar-watch.md)
    + [Gerenciamento de usuários e licenças de webinários interativos](/help/events/interactive-webinars-user-and-license-management.md)
    + [Criação do programa de evento de webinários interativos](/help/events/interactive-webinars-event-program-creation.md)
@@ -123,4 +123,5 @@ ht-degree: 8%
    + [Relatórios e análises](/help/reporting/reporting-and-analytics.md)
    + [Relatórios principais](/help/reporting/key-reports.md)
 + Integrações {#integrations}
-   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=pt-BR)
+   + [Ajuda da API - Como definir o token de acesso em uma variável](/help/integrations/api-set-access-token-variable.md)
