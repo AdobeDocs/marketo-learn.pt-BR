@@ -3,10 +3,10 @@ title: Tutorials do Marketo Engage
 description: Assista aos tutoriais em vídeo em  [!DNL Marketo Engage]. Melhore sua compreensão sobre o uso dos recursos de automação de marketing e muito mais.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
+source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -27,11 +27,11 @@ Navegue pela nossa biblioteca de tutoriais e aproveite ao máximo o [!DNL Market
 * [Migrando para o Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Saiba como navegar na migração do Adobe Identity Management para começar a gerenciar o Adobe Marketo Engage com outras contas e produtos Adobe para seus usuários em um local central._
 
-* [Webinários interativos postam insights e ações do evento](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-Saiba onde encontrar informações detalhadas sobre o desempenho e o engajamento do evento Webinars interativos.
+* [Insights e ações pós-evento de webinários interativos](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
+  _Saiba onde encontrar informações detalhadas sobre o desempenho e o engajamento do evento de Webinars interativos._
 
-* [Vídeo de como API do Marketo - Como definir o token de acesso em uma variável](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-Saiba como configurar o aplicativo do Postman e como aproveitar variáveis para salvar dados na variável para fins de reutilização.
+* [Vídeo de como API do Marketo - Como definir o token de acesso em uma variável](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
+  _Saiba como configurar o aplicativo Postman e como aproveitar variáveis para salvar dados na variável para fins de reutilização._
 
 ## Vídeos mais populares {#most-popular-videos}
 
