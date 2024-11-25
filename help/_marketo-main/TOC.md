@@ -3,10 +3,10 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 10%
+source-wordcount: '370'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 10%
    + [Marketing de conteúdo](/help/fundamentals/content-marketing-learn.md)
    + [Personas do comprador](/help/fundamentals/buyer-personas-learn.md)
    + [Programas e campanhas](/help/fundamentals/programs-and-campaigns.md)
-   + [Navegar na interface](/help/fundamentals/ui-navigation.md)
    + [Práticas recomendadas para organizar uma nova instância](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar com tokens](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 10%
 + Programas e campanhas {#programs-and-campaigns}
    + [Entender programas e campanhas](/help/programs/understanding-programs-and-campaigns.md)
    + [Noções básicas sobre Campanhas inteligentes](/help/campaigns/smart-campaigns-101.md)
-   + [Programas de email](/help/programs/email-programs.md)
    + [Programas de evento](/help/programs/event-programs.md)
    + Programas padrão {#default-programs}
       + [Criar e medir um programa padrão](/help/programs/create-and-measure-default-programs.md)
       + [Aproveite a flexibilidade dos programas padrão](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Programas de envolvimento](/help/programs/engagement-programs.md)
    + Mapas de engajamento {#engagement-maps}
       + [Visão geral do mapa de engajamento](/help/engagement-maps/engagement-map-overview.md)
       + [Campanhas aninhadas do mapa de engajamento](/help/engagement-maps/engagement-map-nested-campaign.md)
