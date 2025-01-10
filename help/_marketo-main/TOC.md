@@ -3,10 +3,10 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '430'
+ht-degree: 8%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 9%
    + [Visualização da caixa de diálogo](/help/dynamic-chat/dialogue-preview.md)
    + [Globalização de conteúdo estático](/help/dynamic-chat/globalization-of-static-content.md)
    + [Formulários de conversação](/help/dynamic-chat/conversational-forms.md)
-   + [SDK de conversas](/help/dynamic-chat/conversations-sdk.md)
+   + [Conversas no SDK](/help/dynamic-chat/conversations-sdk.md)
    + [Fluxos reutilizáveis](/help/dynamic-chat/reusable-flows.md)
    + [Páginas de aterrissagem de conversa](/help/dynamic-chat/conversational-landing-pages.md)
    + [Conectar visitantes a agentes em tempo real](/help/dynamic-chat/connect-visitors-to-live-agents.md)
@@ -121,3 +121,16 @@ ht-degree: 9%
 + Integrações {#integrations}
    + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=pt-BR)
    + [Ajuda da API - Como definir o token de acesso em uma variável](/help/integrations/api-set-access-token-variable.md)
++ Gerenciando Duplicatas {#manage-duplicates}
+   + [Introdução ao Gerenciamento de Duplicatas](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Entender por que ocorrem duplicatas](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Identificar e evitar registros duplicados](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Determine quando os registros duplicados são necessários](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Mesclando registros duplicados manualmente](/help/managing-duplicates/merge-manually.md)
+   + [Mesclagem de duplicados em massa - parte 1](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Mesclagem de duplicados em massa - parte 2](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Mesclagem de duplicados em massa - parte 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Automatizar o gerenciamento de duplicatas, parte 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Automatizar o gerenciamento de duplicatas, parte 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Simplifique o gerenciamento de duplicatas](/help/managing-duplicates/simplify-acs.md)
+   + [Escolha a melhor estratégia para gerenciar duplicatas](/help/managing-duplicates/duplicate-strategy.md)
