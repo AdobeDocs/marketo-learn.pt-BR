@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
+source-git-commit: b4f9ce6cfc8126559e94985c540ec9766a56310e
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Para garantir que sua organização possa migrar o Adobe Marketo Engage para o A
 * Incluir na lista de permissões Trabalhe com sua equipe de TI para atualizar todos os domínios de Adobe listados [na parte superior deste artigo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}, a fim de evitar a interrupção do acesso ao Marketo Engage após a migração para a Identidade do Adobe.
 
 * **Opcional:** [Implementar Logon Único (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} antes da migração do usuário.
+
+  >[!NOTE]
+  >
+  >Há diferenças entre o SSO compatível com Marketo Engage e o SSO do Adobe Admin Console. Dessa forma, pode ser necessário implementar alterações na configuração.
 
 * **Opcional:** Personalize a [vida máxima da sessão](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} desejada antes da migração do usuário para que os usuários do Marketo Engage permaneçam autenticados.
 
