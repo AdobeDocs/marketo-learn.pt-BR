@@ -3,9 +3,9 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 8%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 8%
    + [Gerenciamento de usuários](/help/dynamic-chat/user-management.md)
    + [Gerenciamento de agentes](/help/dynamic-chat/agent-management.md)
    + [Gerenciamento de diálogo](/help/dynamic-chat/dialogue-management.md)
-   + [Inserir PDF em conversas](/help/dynamic-chat/document-cloud-integration.md)
+   + [Incorporar o PDF em conversas](/help/dynamic-chat/document-cloud-integration.md)
    + [Pesquisar no Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Captura de atributos inferidos](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Visualização da caixa de diálogo](/help/dynamic-chat/dialogue-preview.md)
@@ -108,6 +108,7 @@ ht-degree: 8%
    + [Criação de um programa de evento](/help/events/events-learn.md)
    + [Webinários](/help/events/webinar-learn.md)
    + [Apresentação dos webinários](/help/events/webinar-watch.md)
+   + [Visão geral de webinários interativos](/help/events/interactive-webinars-overview.md)
    + [Gerenciamento de usuários e licenças de webinários interativos](/help/events/interactive-webinars-user-and-license-management.md)
    + [Criação do programa de evento de webinários interativos](/help/events/interactive-webinars-event-program-creation.md)
    + [Visão geral do programa de evento de webinários interativos](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 8%
 + Relatórios e análises {#reporting}
    + [Relatórios principais](/help/reporting/key-reports.md)
 + Integrações {#integrations}
-   + [Marketo com Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=pt-BR)
+   + [Marketo com Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=pt-BR)
    + [Ajuda da API - Como definir o token de acesso em uma variável](/help/integrations/api-set-access-token-variable.md)
 + Gerenciando Duplicatas {#manage-duplicates}
    + [Introdução ao Gerenciamento de Duplicatas](/help/managing-duplicates/introduction-managing-duplicates.md)
