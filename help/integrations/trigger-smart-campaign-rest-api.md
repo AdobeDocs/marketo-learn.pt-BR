@@ -4,7 +4,7 @@ description: Saiba como acionar uma Campanha inteligente no Marketo Engage usand
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Se você estiver usando um token para inserir dinamicamente uma URL de imagem (por exemplo, `{{my.WebinarImage}}`), envolva o token em uma tag de imagem do HTML:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Se você estiver usando um token para inserir dinamicamente uma URL de imagem (por exemplo, `{{my.WebinarImage}}`), envolva o token em uma tag de imagem do HTML:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >O Marketo Enagage **não** renderizará a imagem, a menos que o token seja colocado dentro de uma marca de imagem válida.
 
