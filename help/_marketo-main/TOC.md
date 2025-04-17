@@ -3,10 +3,10 @@ user-guide-title: Tutorials do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutorials do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 8%
+source-wordcount: '454'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 8%
       + [Visão geral do mapa de engajamento](/help/engagement-maps/engagement-map-overview.md)
       + [Campanhas aninhadas do mapa de engajamento](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detecção e resolução de erros do mapa de engajamento](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ Marketing por email {#email-marketing}
++  por email {#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
    + [Boletim informativo personalizado](/help/email-marketing/personalized-newsletter-learn.md)
@@ -91,10 +91,10 @@ ht-degree: 8%
    + [Relatório de engajamento](/help/dynamic-chat/engagement-report.md)
 + Ações do Sales Insight {#sales-insight-actions}
    + [Visão geral](/help/sales-insight-actions/overview.md)
-   + [Visão geral das ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [Acessar a instância de ações do Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Visão geral das Ações do Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Acessando a instância de Ações do Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurar o log de atividade de vendas para  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Cliente em potencial e gerenciamento de dados {#lead-and-data-management}
++ Cliente potencial e gerenciamento de dados {#lead-and-data-management}
    + [Pontuação de lead/pessoa](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Passo a passo da pontuação do cliente potencial/pessoa](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Central de assinaturas](/help/lead-and-data-management/subscription-center-learn.md)
@@ -123,7 +123,8 @@ ht-degree: 8%
 + Integrações {#integrations}
    + [Marketo com Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=pt-BR)
    + [Ajuda da API - Como definir o token de acesso em uma variável](/help/integrations/api-set-access-token-variable.md)
-+ Gerenciando Duplicatas {#manage-duplicates}
+   + [Como acionar uma campanha inteligente no Marketo Engage usando a API REST e os tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
++ Gerenciamento de duplicados {#manage-duplicates}
    + [Introdução ao Gerenciamento de Duplicatas](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Entender por que ocorrem duplicatas](/help/managing-duplicates/why-duplicates-occur.md)
    + [Identificar e evitar registros duplicados](/help/managing-duplicates/identify-prevent-duplicates.md)
