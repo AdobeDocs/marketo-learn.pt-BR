@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como configurar um Programa de evento que permite criar e agendar eventos de Webinars interativos no Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443417/?learn=on&captions=por_br)

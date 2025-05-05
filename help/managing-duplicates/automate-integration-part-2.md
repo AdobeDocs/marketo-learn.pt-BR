@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como configurar mapeamentos de campo, lógica de mesclagem e agendamento para automatizar o gerenciamento duplicado entre ferramentas Marketo Engage e iPaaS. Esta demonstração em vídeo do fluxo de trabalho usa o Vertify como exemplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453812/?learn=on&enablevpops&captions=por_br)

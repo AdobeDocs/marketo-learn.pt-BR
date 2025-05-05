@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como o Mapa de engajamento pode aumentar a velocidade da campanha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423309/?learn=on&captions=por_br){transcript=true}

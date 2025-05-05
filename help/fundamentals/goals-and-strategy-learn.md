@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Quando todos os seus esforços de marketing se encaixarem em uma estratégia que apoia as metas da sua organização, você poderá comprovar melhor o valor de seus programas e campanhas. Saiba como centralizar seus esforços desenvolvendo metas e estratégia de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417150/?quality=12&learn=on&captions=por_br){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Seguir as práticas recomendadas sugeridas pelo [!DNL Marketo's] para organizar seus programas e sua instância pode ajudar você e seus colegas a encontrar o que é necessário em sua instância quando você precisar, além de ajudar a tornar seus relatórios mais precisos.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417149/?quality=12&learn=on&captions=por_br){transcript=true}

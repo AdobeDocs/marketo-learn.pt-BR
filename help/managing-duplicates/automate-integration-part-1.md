@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como simplificar o gerenciamento de duplicatas no Marketo Engage usando integrações de API com ferramentas iPaaS, como Vertify ou Workato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441924/?learn=on&enablevpops&captions=por_br)

@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Saiba como configurar seu evento Webinars interativos antes da entrega para atender ao objetivo do webinário e garantir que a entrega seja eficaz o suficiente para envolver os participantes a gerar interesse e solicitar a intenção para a marca, o produto e os serviços. etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448989/?learn=on&captions=por_br)

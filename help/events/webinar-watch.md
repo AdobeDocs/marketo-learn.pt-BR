@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Saiba como criar um webinário e gerenciá-lo no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413533/?quality=12&learn=on&captions=por_br){transcript=true}
 

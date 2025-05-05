@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Com a inundação da tecnologia hoje em dia, o marketing móvel é uma das estratégias mais imperativas a serem empregadas. Saiba como desenvolver relacionamentos com seus compradores criando conexões pessoais e em tempo real pela conveniência dos dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413539/?quality=12&learn=on&captions=por_br){transcript=true}

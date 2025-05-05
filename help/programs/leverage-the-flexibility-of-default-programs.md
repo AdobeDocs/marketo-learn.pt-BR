@@ -22,4 +22,4 @@ ht-degree: 3%
 Dos quatro tipos de programas, os programas padrão são os mais flexíveis e você pode ser criativo com o que criar.
 Saiba mais sobre dois casos de uso comuns: formulários web e geração de pessoa de mídia paga.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453856?learn=on&captions=por_br){transcript=true}

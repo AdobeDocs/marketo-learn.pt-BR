@@ -26,4 +26,4 @@ Usos que você pode desbloquear -
 - Conteúdo recomendado com base nas opções/interesses do visitante
 - Compartilhar documentos e rastrear o envolvimento
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445106/?learn=on&captions=por_br)

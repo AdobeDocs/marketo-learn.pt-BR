@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Saiba como configurar e registrar atividades de Ações do Insight de vendas na sua conta do [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449204/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos relacionados
 

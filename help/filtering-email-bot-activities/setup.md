@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Um guia para ajudá-lo a habilitar a identificação de atividades de email por bots e como você pode filtrar e criar campanhas excluindo bots.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445117/?quality=12&learn=on&captions=por_br){transcript=true}

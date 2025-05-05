@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Os recursos integrados de teste A/B do Marketo podem ajudar você a tomar decisões orientadas por dados para melhorar a eficácia de seus emails, testando itens como linhas de assunto, dia da semana e hora do dia, endereço &quot;de&quot; e muito mais. Saiba mais sobre como usar o teste A/B de email no Marketo para ajudar a melhorar o desempenho do email.
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413176/?quality=12&learn=on&captions=por_br){transcript=true}

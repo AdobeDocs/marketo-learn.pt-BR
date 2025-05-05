@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Um guia para ajudá-lo a instalar o chatbot JavaScript em seu site ou página de aterrissagem e personalizar sua aparência para corresponder à sua marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345025/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos mais úteis
 

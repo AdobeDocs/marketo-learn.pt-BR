@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como o Mapa de engajamento ajuda a solucionar e corrigir problemas de campanha rapidamente
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423291/?learn=on&captions=por_br){transcript=true}

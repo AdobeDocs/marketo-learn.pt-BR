@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat] está integrado nativamente no [!DNL Marketo Engage], o que permite usar o contexto de conversas de chatbot para redirecionar ou atingir suas expectativas.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345052/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos mais úteis
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Com a [!UICONTROL promoção da pessoa], você pode ouvir as necessidades das pessoas e responder com conteúdo relevante em toda a jornada de comprador único. Saiba mais sobre os programas de nutrição, como eles funcionam e as etapas para o sucesso.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413532/?quality=12&learn=on&captions=por_br){transcript=true}

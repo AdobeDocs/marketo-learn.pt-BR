@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como criar um teste A/B de email no Marketo para melhorar o desempenho do email.
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413175/?quality=12&learn=on&captions=por_br){transcript=true}

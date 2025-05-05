@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Veja como implementar processos entre você e seus assinantes configurando e gerenciando sua central de assinaturas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413440/?quality=12&learn=on&captions=por_br){transcript=true}

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Saiba como navegar na seção Analytics e Banco de dados para obter diferentes relatórios prontos para uso no Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446425/?learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

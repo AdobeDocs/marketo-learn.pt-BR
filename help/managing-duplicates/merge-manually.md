@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como mesclar duplicatas manualmente na seção Banco de dados, perfeita para lidar com menos registros com precisão e controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443655/?learn=on&enablevpops&captions=por_br)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Prepare-se para envolver seus clientes como indivíduos em seu marketing por email. Saiba como fornecer mensagens atraentes relevantes para seu público-alvo e medir o ROI de suas campanhas de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412155/?quality=12&learn=on&captions=por_br){transcript=true}

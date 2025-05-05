@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como fornecer seu Evento de webinários interativos de maneira ideal para atingir seu objetivo e envolver os participantes. Certifique-se de que o conteúdo gere interesse para que você possa solicitar a intenção por meio de diferentes ferramentas de envolvimento para ajudar a personalizar melhor a criação e a segmentação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440042/?learn=on&captions=por_br)

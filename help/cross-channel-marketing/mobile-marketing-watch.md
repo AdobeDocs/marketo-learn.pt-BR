@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Veja como criar personas de compradores, definir KPIs, determinar sua cadência de comunicação, usar o [!DNL Marketo] Calendário de marketing e muito mais para melhorar sua estratégia de marketing para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417153/?quality=12&learn=on&captions=por_br){transcript=true}

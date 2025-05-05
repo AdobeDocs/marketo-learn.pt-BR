@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Atraia, adquira e envolva seu público-alvo desenvolvendo uma estratégia de marketing de conteúdo. Saiba mais sobre as principais etapas para o sucesso que incluem a otimização e a medição do impacto do seu conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417151/?quality=12&learn=on&captions=por_br){transcript=true}

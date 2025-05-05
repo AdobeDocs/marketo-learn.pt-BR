@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba como navegar na interface do usuário e familiarizar-se com a plataforma Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450431/?learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

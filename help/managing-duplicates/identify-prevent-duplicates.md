@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Explore ferramentas e dicas para detectar duplicatas e evitá-las com fluxos de trabalho estruturados e auditorias periódicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447103/?learn=on&enablevpops&captions=por_br)

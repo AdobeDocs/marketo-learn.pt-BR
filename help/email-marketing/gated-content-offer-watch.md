@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Veja como configurar e rastrear um programa de email com conteúdo restrito no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412156/?quality=12&learn=on&captions=por_br){transcript=true}

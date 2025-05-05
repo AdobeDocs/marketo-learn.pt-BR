@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Simplifique a criação e o gerenciamento de conversas com o novo cartão Fluxo de conversa. Criar um fluxo de conversação uma vez e redefini-lo em várias caixas de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446650/?learn=on&captions=por_br)

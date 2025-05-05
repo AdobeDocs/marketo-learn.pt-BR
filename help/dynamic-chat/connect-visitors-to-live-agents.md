@@ -26,4 +26,4 @@ Isso é melhor para:
 * Garantindo que você esteja sempre falando com os levantadores de mão
 * Oferta após o preenchimento do formulário ou durante a conversa automatizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452063/?learn=on&captions=por_br)

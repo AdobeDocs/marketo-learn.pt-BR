@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Não tem certeza de como utilizar melhor o marketing social? Saiba como aumentar efetivamente a percepção da marca e fomentar o engajamento da marca usando seu canal social.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412161/?quality=12&learn=on&captions=por_br){transcript=true}

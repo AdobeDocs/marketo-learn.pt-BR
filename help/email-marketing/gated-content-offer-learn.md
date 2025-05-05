@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obter alguns de seus melhores conteúdos como estratégia de marketing de conteúdo ajudará você a gerar leads e saber qual de seus visitantes é sério. Saiba mais sobre conteúdo fechado, como funciona e etapas para o sucesso.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413439/?quality=12&learn=on&captions=por_br){transcript=true}

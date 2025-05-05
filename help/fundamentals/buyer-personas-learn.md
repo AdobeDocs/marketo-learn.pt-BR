@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Quer ter certeza de que seu marketing de conteúdo está envolvendo possíveis compradores e gerando leads? Criar personas de compradores ajudará você a determinar que tipo de conteúdo você precisa e como os compradores encontrarão e consumirão informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417156/?quality=12&learn=on&captions=por_br){transcript=true}

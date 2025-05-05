@@ -22,4 +22,4 @@ Agora, envolva os visitantes do seu site imediatamente depois que eles preencher
 
 Em nosso vídeo passo a passo, guiamos você pelo processo, tornando simples a implementação dessa poderosa ferramenta para sua empresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443361/?learn=on&captions=por_br)

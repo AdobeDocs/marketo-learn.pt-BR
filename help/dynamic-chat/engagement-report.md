@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Agora veja as tendências de como os visitantes da Web se envolvem com a caixa de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437705/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos mais úteis
 

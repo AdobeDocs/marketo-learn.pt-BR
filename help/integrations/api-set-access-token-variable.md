@@ -43,4 +43,4 @@ pm.environment.set("access_token", jsonData.access_token);
 
 * [Documentação de desenvolvedores do Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453988/?learn=on&captions=por_br)

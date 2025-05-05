@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sua mensagem de marketing não atingirá seus objetivos se seus emails não chegarem às caixas de entrada dos assinantes. Saiba como entregar emails com êxito aos assinantes que desejam lê-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413178/?quality=12&learn=on&captions=por_br){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aproveite o engajamento presencial em seus programas de marketing de eventos para criar relacionamentos, gerar boa vontade e ganhar a confiança de possíveis compradores e clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413538/?quality=12&learn=on&captions=por_br){transcript=true}

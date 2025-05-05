@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Talvez você já saiba como criar uma caixa de diálogo em outros idiomas (caso contrário, [clique aqui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Você pode personalizar o conteúdo estático/do sistema para o idioma de sua escolha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439219/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos mais úteis
 

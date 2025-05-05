@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como classificar e consolidar registros duplicados no Excel usando fórmulas e práticas recomendadas para importações de lista limpa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449683/?learn=on&enablevpops&captions=por_br)

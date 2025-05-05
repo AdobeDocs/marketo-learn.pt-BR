@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Está lutando para se comunicar com seus assinantes? Deixe que eles digam quais comunicações eles querem e com que frequência eles querem ouvir de você. Saiba como criar e gerenciar uma central de assinaturas para desenvolver uma cadência e um processo apropriados.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413441/?quality=12&learn=on&captions=por_br){transcript=true}

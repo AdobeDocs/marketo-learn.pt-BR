@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Acelere os esforços de prospecção com inteligência baseada em marketing e ferramentas de envolvimento em um único fluxo de trabalho usando as ações Sales Insight.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447250/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos relacionados
 

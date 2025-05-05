@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Para vencer no cenário atual de marketing digital em constante mudança, você precisa de uma equipe que possa responder aos desafios dinâmicos que os profissionais de marketing enfrentam todos os dias. Saiba mais sobre como estruturar sua organização de marketing para enfrentar os novos desafios, os tipos de pessoas necessárias na equipe e como posicionar melhor o marketing para que sua organização participe da economia do envolvimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417152/?quality=12&learn=on&captions=por_br){transcript=true}

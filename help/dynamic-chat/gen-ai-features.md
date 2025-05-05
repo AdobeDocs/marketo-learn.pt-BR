@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como conduzir conversas alimentadas por GenAI e permitir que seus visitantes façam perguntas, obtenham respostas rápidas e gerem um resumo para suas conversas. Aproveite os insights conversacionais diretamente nas instâncias do Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454476/?learn=on&captions=por_br)

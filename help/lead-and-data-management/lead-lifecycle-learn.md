@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Você sabe quantos clientes potenciais estão em cada estágio da jornada do comprador e quando as vendas devem entrar em contato com eles? Saiba mais sobre como criar um programa do [!UICONTROL ciclo de vida da pessoa] que use pontuação para obter insights sobre onde seus clientes potenciais estão em sua jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413445/?quality=12&learn=on&captions=por_br){transcript=true}

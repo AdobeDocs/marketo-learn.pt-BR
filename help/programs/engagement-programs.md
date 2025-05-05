@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Siga este tutorial passo a passo para criar seu primeiro programa de envolvimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
+>[!VIDEO](https://video.tv.adobe.com/v/3452684/?learn=on&captions=por_br){transcript=true} 
 
 ## Recursos adicionais:
 

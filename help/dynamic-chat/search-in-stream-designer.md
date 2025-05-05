@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Uma pesquisa rápida pode ajudá-lo a acessar qualquer cartão no designer de fluxo com um clique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437247/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Vídeos mais úteis
 

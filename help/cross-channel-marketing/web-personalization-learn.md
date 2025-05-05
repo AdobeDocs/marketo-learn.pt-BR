@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Forneça uma experiência pessoal e relevante para cada visitante do site com base em quem ele é e no que faz. Saiba mais sobre como segmentar e direcionar visitantes do site para criar experiências mais personalizadas, significativas e envolventes.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417157/?quality=12&learn=on&captions=por_br){transcript=true}

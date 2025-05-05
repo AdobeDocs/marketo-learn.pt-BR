@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba onde encontrar informações detalhadas sobre o desempenho e o engajamento do evento Webinars interativos fornecido. Descubra ações para segmentar, pontuar e nutrir leads/participantes de maneira personalizada com base nos insights e na intenção do engajamento coletados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447853/?learn=on&captions=por_br)

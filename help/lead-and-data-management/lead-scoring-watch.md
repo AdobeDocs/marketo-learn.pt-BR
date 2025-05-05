@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Veja como criar um programa operacional de pontuação de cliente potencial/pessoa, usar tokens na campanha e importar campanhas pré-criadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413442/?quality=12&learn=on&captions=por_br){transcript=true}

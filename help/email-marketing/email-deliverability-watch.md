@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Veja como otimizar a capacidade de entrega de emails por meio de práticas recomendadas, autenticação de email e reputação.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413177/?quality=12&learn=on&captions=por_br){transcript=true}

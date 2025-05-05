@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como criar um programa de evento de feiras comerciais com base em um programa pré-criado no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413537/?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

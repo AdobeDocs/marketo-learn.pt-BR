@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Crie um programa de [!UICONTROL ciclo de vida da pessoa] que rastreie seus clientes potenciais usando os status do programa e atue nesses clientes potenciais que estão prontos para vendas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413444/?quality=12&learn=on&captions=por_br){transcript=true}
