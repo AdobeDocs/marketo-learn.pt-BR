@@ -24,11 +24,11 @@ Saiba como configurar o aplicativo do Postman e salvar dados em variáveis para 
 >
 >Antes de iniciar este vídeo, crie um nome de usuário Somente API com uma função AOI e crie um serviço Launchpad. Siga as etapas nos artigos abaixo:
 >
->* [Criar uma função de usuário somente API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Criar uma função de usuário somente API](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Criar um Usuário Somente de API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Criar um Usuário Somente de API](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Criar um serviço personalizado para usar com a API REST](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Criar um serviço personalizado para usar com a API REST](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Referências usadas neste vídeo:**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* [Documentação de desenvolvedores do Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* [Documentação de desenvolvedores do Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)

@@ -30,15 +30,15 @@ Para garantir que sua organização possa migrar o Adobe Marketo Engage para o A
 
 * Confirme a Adobe Admin Console (ou a Adobe Org) para a qual suas assinaturas do Marketo Engage serão migradas. Você provavelmente tem um Adobe Admin Console para [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, uma ferramenta nativa de automação de conversas no Marketo Engage. As assinaturas do Marketo Engage devem ser implantadas na mesma organização da Dynamic Chat.
 
-* Incluir na lista de permissões Trabalhe com sua equipe de TI para atualizar todos os domínios do Adobe listados [na parte superior deste artigo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage após a migração para a Identidade da Adobe.
+* Incluir na lista de permissões Trabalhe com sua equipe de TI para atualizar todos os domínios do Adobe listados [na parte superior deste artigo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage após a migração para a Identidade da Adobe.
 
-* **Opcional:** [Implementar Logon Único (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} antes da migração do usuário.
+* **Opcional:** [Implementar Logon Único (SSO)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} antes da migração do usuário.
 
   >[!NOTE]
   >
   >Há diferenças entre o SSO compatível com o Marketo Engage e o SSO do Adobe Admin Console. Dessa forma, pode ser necessário implementar alterações na configuração.
 
-* **Opcional:** Personalize a [vida máxima da sessão](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} desejada antes da migração do usuário para que os usuários do Marketo Engage permaneçam autenticados.
+* **Opcional:** Personalize a [vida máxima da sessão](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} desejada antes da migração do usuário para que os usuários do Marketo Engage permaneçam autenticados.
 
 * Saiba o que comunicar com seus administradores do sistema na [seção de amostra de email](#announce-the-migration-timeline).
 
@@ -50,13 +50,13 @@ No vídeo abaixo, a equipe de gerenciamento de produtos da Marketo Engage orient
 
 Mais ajuda sobre esse tópico para administradores do Marketo Engage pode ser encontrada nos seguintes artigos de ajuda:
 
-* [Lista de verificação da Instalação do Usuário](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
+* [Lista de verificação da Instalação do Usuário](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [Visão geral do Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
+* [Visão geral do Adobe Identity Management](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
-* [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
+* [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [Migrando para a Identidade Adobe com o Console de Migração](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
+* [Migrando para a Identidade Adobe com o Console de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
 * [Saiba como usar o Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/admin-console.html){target="_blank"}
 
@@ -64,7 +64,7 @@ Mais ajuda sobre esse tópico para administradores do Marketo Engage pode ser en
 
 * Marque a data da migração nos calendários dos administradores e usuários do Marketo Engage, uma vez programada.
 
-   * Você pode modificar a data de migração em **Admin** > **Console de Migração** > **Pré-Migração** para que se ajuste melhor à sua linha do tempo interna. Saiba mais sobre o reagendamento e as limitações do [modificação da data de migração](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
+   * Você pode modificar a data de migração em **Admin** > **Console de Migração** > **Pré-Migração** para que se ajuste melhor à sua linha do tempo interna. Saiba mais sobre o reagendamento e as limitações do [modificação da data de migração](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
 * **Envie um email para os Administradores do Sistema**
 
@@ -88,13 +88,13 @@ Nossa assinatura do Marketo Engage em breve será migrada para o Adobe Identity 
 
 * A Adobe pode solicitar o seu consentimento, o administrador do sistema da Admin Console, para migrar automaticamente os usuários para o console existente da sua organização. No email com a linha de assunto &quot;Ação necessária para gerenciar o acesso do usuário ao Adobe Marketo Engage `[Package Tier]`&quot;, clique no botão &quot;Introdução&quot; para navegar até a página de consentimento.
 
-`3.` Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Inclua na lista de permissões todos os domínios do Adobe listados [na parte superior deste artigo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
+`3.` Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Inclua na lista de permissões todos os domínios do Adobe listados [na parte superior deste artigo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
 `4.` **Opcional:** Configurar o SSO (Logon Único) na Adobe Admin Console.
 
 * Para beneficiar nossos usuários que fazem logon com SSO em sua identidade da Adobe daqui em diante, auxilie com a configuração de SSO no Adobe Admin Console antes que a migração de usuário ocorra.
 
-`5.` **Opcional:** Defina uma [vida máxima da sessão](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} mais longa na Adobe Admin Console.
+`5.` **Opcional:** Defina uma [vida máxima da sessão](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} mais longa na Adobe Admin Console.
 
 * Para evitar que os usuários precisem entrar com frequência, personalize a vida da sessão nas Configurações avançadas com uma duração mais longa.
 

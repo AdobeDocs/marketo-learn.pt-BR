@@ -15,8 +15,8 @@ Os programas representam uma única iniciativa de marketing. Saiba como aproveit
 
 Consulte os guias de produtos relacionados para obter mais informações:
 
-* [Noções básicas sobre a documentação de Programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Noções básicas sobre a documentação de Programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=pt-BR)
+* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=pt-BR)
 
 Aprenda com seus colegas como usar as Campanhas inteligentes:
 

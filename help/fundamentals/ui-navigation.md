@@ -24,7 +24,7 @@ Saiba como navegar na interface do usuário e familiarizar-se com a plataforma M
 
 ## Recursos adicionais
 
-* [glossário de Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [glossário de Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=pt-BR)
 Definições para muitos dos termos que você pode encontrar ao usar o Marketo.
-* [Glossário de ícones](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [Glossário de ícones](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=pt-BR)
 Glossário dos ícones da interface do Marketo Engage.

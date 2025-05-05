@@ -29,9 +29,9 @@ Isso pode ser feito usando a API REST e Meus tokens.
 
 ## Etapa 1: criar a campanha inteligente {#step-one}
 
-1. Vá para **Atividades de marketing** e, na pasta [Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, crie uma nova [Campanha inteligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} chamada `Send Webinar Reminder`.
+1. Vá para **Atividades de marketing** e, na pasta [Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, crie uma nova [Campanha inteligente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} chamada `Send Webinar Reminder`.
 
-1. Na guia **Smart List**, [adicione um acionador](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} para permitir que a campanha seja chamada por meio da API:
+1. Na guia **Smart List**, [adicione um acionador](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} para permitir que a campanha seja chamada por meio da API:
 
    * Selecionar **Campanha solicitada** como acionador
    * Definir o **Source** para `Web Service API`
@@ -40,7 +40,7 @@ Isso pode ser feito usando a API REST e Meus tokens.
 
 ## Etapa 2: definir o conteúdo do email {#step-two}
 
-Crie ou edite um [ativo de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} que faça referência à Pessoa e aos [Meus Tokens](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
+Crie ou edite um [ativo de email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} que faça referência à Pessoa e aos [Meus Tokens](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Para transmitir valores dinamicamente por meio da API, os tokens já devem exist
 
 ## Etapa 4: definir regras de qualificação de campanha e ativar a campanha {#step-four}
 
-1. Configure as [regras de qualificação](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} para controlar a frequência com que uma pessoa pode executar a Campanha Inteligente.
+1. Configure as [regras de qualificação](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} para controlar a frequência com que uma pessoa pode executar a Campanha Inteligente.
 
 1. Depois de configurado, clique em **Ativar** para habilitar o Smart Campaign para receber solicitações acionadas por API.
 
@@ -133,7 +133,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }

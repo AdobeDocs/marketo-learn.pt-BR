@@ -20,4 +20,4 @@ Um guia passo a passo para ajudá-lo a fazer a ativação com sua primeira caixa
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*Observação: para aqueles que não sabem como acessar o [!UICONTROL Dynamic Chat] , [este é um vídeo curto](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) para ajudá-lo a adicionar a si mesmo ou a outros usuários ao [!UICONTROL Dynamic Chat] .*
+*Observação: para aqueles que não sabem como acessar o [!UICONTROL Dynamic Chat] , [este é um vídeo curto](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=pt-BR) para ajudá-lo a adicionar a si mesmo ou a outros usuários ao [!UICONTROL Dynamic Chat] .*

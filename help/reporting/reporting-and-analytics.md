@@ -27,7 +27,7 @@ Saiba como navegar na seção Analytics e Banco de dados para obter diferentes r
 ## Recursos adicionais
 
 * **Documentação do produto**
-Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=pt-BR&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
 * **Publicação de especialista no blog do cliente**
 Aprenda com o Campeão Chelsea Kiko sobre a criação de vários relatórios - [Reportando em Vários Espaços de Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

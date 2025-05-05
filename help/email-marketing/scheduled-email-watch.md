@@ -24,4 +24,4 @@ Saiba como criar, gerenciar e rastrear um programa de email agendado.
 
 Consulte o guia do produto para obter mais informações sobre programas de e-mail:
 
-* [Noções básicas sobre a documentação dos Programas de Email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Noções básicas sobre a documentação dos Programas de Email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=pt-BR)
