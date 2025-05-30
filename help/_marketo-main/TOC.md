@@ -26,7 +26,7 @@ ht-degree: 10%
    + [Práticas recomendadas para organizar uma nova instância](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar com tokens](/help/personalization/personalize-with-tokens.md)
-   + [Implementar uma nova instância - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementar uma nova instância - Tutorial](https://experienceleague.adobe.com/pt-br/docs/experiences-by-you/implementing-new-instance/overview)
    + [Auditoria de uma instância herdada - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=pt-BR)
 + Programas e campanhas {#programs-and-campaigns}
    + [Entender programas e campanhas](/help/programs/understanding-programs-and-campaigns.md)
