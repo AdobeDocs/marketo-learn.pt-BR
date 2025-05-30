@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Melhorar a qualidade dos clientes potenciais que o marketing oferece às vendas usando um programa de pontuação de cliente potencial/pessoa. Saiba mais sobre a pontuação de lead/pessoa, como ela funciona e as etapas para o sucesso para obter seus benefícios mensuráveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413443/?quality=12&learn=on&captions=por_br){transcript=true}
