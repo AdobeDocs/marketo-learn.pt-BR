@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Saiba como encontrar grupos específicos de pessoas usando filtros simples por meio de Smart Lists.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463208/?learn=on&enablevpops&captions=por_br)

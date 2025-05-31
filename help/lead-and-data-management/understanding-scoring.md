@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como atribuir pontuações a seus funcionários/clientes potenciais para avaliar o envolvimento deles com seu conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463241/?learn=on&enablevpops&captions=por_br)
