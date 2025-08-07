@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como os clientes potenciais (pessoas) avançam pelos diferentes estágios de sua jornada de comprador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470600/?learn=on&enablevpops&captions=por_br)

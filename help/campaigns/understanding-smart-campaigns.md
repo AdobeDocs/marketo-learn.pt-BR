@@ -20,4 +20,4 @@ ht-degree: 0%
 
 As campanhas inteligentes são o mecanismo do Marketo Engage. Eles podem ser usados para enviar emails, programas e muito mais. Saiba tudo sobre essas ferramentas essenciais no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470565/?learn=on&enablevpops&captions=por_br)

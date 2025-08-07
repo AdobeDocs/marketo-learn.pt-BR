@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como usar um Programa de email para enviar um email de maneira rápida e fácil para vários destinatários e acompanhar seus resultados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470612/?learn=on&enablevpops&captions=por_br)
