@@ -51,7 +51,7 @@ ht-degree: 10%
       + [Visão geral do mapa de engajamento](/help/engagement-maps/engagement-map-overview.md)
       + [Campanhas aninhadas do mapa de engajamento](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detecção e resolução de erros do mapa de engajamento](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+  por email {#email-marketing}
++ por email {#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
    + [Boletim informativo personalizado](/help/email-marketing/personalized-newsletter-learn.md)
