@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como definir seu público-alvo desejado ao usar um Programa de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470672/?learn=on&enablevpops&captions=por_br)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como criar e usar formulários para capturar dados de cliente potencial/pessoa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470661/?learn=on&enablevpops&captions=por_br)

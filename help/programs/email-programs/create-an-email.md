@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como criar, personalizar e testar um email em um Programa de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470639/?learn=on&enablevpops&captions=por_br)
