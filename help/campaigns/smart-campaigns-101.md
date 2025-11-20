@@ -12,8 +12,8 @@ exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 41%
+source-wordcount: '123'
+ht-degree: 40%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 41%
 
 As campanhas inteligentes são o mecanismo do Marketo. Além de usar as Campanhas inteligentes para enviar emails e programas, você pode usar campanhas inteligentes para vários casos de uso. Saiba como você pode usar Campanhas inteligentes para normalização de dados e alertas automatizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424491/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Recursos adicionais
 
 **Documentação:**
 
-* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=pt-BR)
+* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 **Publicações de especialistas no blog do cliente:**
 

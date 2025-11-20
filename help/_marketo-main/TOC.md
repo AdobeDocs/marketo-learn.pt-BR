@@ -28,7 +28,7 @@ ht-degree: 13%
    + [Migração para o Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Práticas recomendadas para organizar uma nova instância](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Práticas recomendadas para a criação de programas fundamentais](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Implementar uma nova instância - Tutorial](https://experienceleague.adobe.com/pt-br/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementar uma nova instância - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Auditoria de uma instância herdada - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=pt-BR)
 + Programas e campanhas {#programs-and-campaigns}
    + [Noções básicas sobre programas](/help/programs/understanding-programs.md)
@@ -51,7 +51,7 @@ ht-degree: 13%
       + [Visão geral do mapa de engajamento](/help/engagement-maps/engagement-map-overview.md)
       + [Campanhas aninhadas do mapa de engajamento](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detecção e resolução de erros do mapa de engajamento](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ por email {#email-marketing}
++  por email {#email-marketing}
    + [Email agendado](/help/email-marketing/scheduled-email-learn.md)
    + [Apresentação programada por email](/help/email-marketing/scheduled-email-watch.md)
    + [Boletim informativo personalizado](/help/email-marketing/personalized-newsletter-learn.md)
