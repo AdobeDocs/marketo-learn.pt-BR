@@ -28,7 +28,7 @@ As campanhas inteligentes são o mecanismo do Marketo. Além de usar as Campanha
 
 **Documentação:**
 
-* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Noções básicas sobre a documentação de Campanhas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=pt-BR)
 
 **Publicações de especialistas no blog do cliente:**
 
