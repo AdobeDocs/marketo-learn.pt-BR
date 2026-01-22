@@ -46,7 +46,7 @@ Para garantir que a organização possa migrar o Adobe Marketo Engage para o Ado
 
 No vídeo abaixo, a equipe de gerenciamento de produtos do Marketo Engage dá orientações sobre a jornada de migração e o que esperar dela.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432366/?captions=por_br&t=170/?quality=12&learn=on){transcript=true}
 
 Para obter mais ajuda sobre esse tópico para admins do Marketo Engage, acesse os seguintes artigos de ajuda:
 
