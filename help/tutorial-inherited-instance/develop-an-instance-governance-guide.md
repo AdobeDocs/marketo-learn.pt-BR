@@ -1,6 +1,6 @@
 ---
 title: Desenvolver um guia de governança de instância com a documentação
-description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o changelog para sua instância Marketo Engage. Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
+description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações para sua instância do Marketo Engage. Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
+index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '959'
 ht-degree: 1%
 
 ---
 
 # Desenvolver um guia de governança de instância com a documentação
 
-À medida que você entra em uma instância herdada do [!DNL Marketo Engage], ela geralmente aparece com o desafio de não ter uma documentação funcional e técnica atualizada. Como administrador, estabelecer diretrizes para garantir o controle adequado da instância é uma responsabilidade principal que não pode ser ignorada. É uma das estratégias críticas para [aumentar a eficiência ao trabalhar em uma instância de Marketo Engage estabelecida](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
+À medida que você entra em uma instância herdada do [!DNL Marketo Engage], ela geralmente aparece com o desafio de não ter uma documentação funcional e técnica atualizada. Como administrador, estabelecer diretrizes para garantir o controle adequado da instância é uma responsabilidade principal que não pode ser ignorada. É uma das estratégias críticas para [impulsionar a eficiência enquanto você trabalha em uma instância estabelecida do Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
 Este tutorial passo a passo com origem no [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, guiará você por esse processo para destacar a configuração da sua instância, documentar seus principais programas operacionais e manter um [!DNL changelog] para aplicar uma política de governança rigorosa.
 
@@ -29,7 +29,7 @@ A documentação detalhada e um [!DNL changelog] são vitais para o gerenciament
 
 1. Treine usuários internos com mais facilidade e de maneira escalável.
 2. Crie com mais eficiência em [!DNL Marketo Engage] a longo prazo.
-3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=pt-BR) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=pt-BR) para obter contexto.
+3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) para obter contexto.
 4. Economize tempo ao transferir o conhecimento sobre o [!DNL Marketo Engage] para um novo administrador do [!DNL Marketo Engage] se a equipe passar por algum volume de negócios.
 
 ## Guia de governança 101 do [!DNL Marketo Engage]
@@ -51,7 +51,7 @@ Um guia de governança serve como a fonte da verdade dos requisitos de configura
 
 ### Etapa 2: Identifique os elementos a serem incluídos em sua Documentação do [!DNL Marketo Engage] e [!DNL Changelogs]
 
-O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Esta é uma documentação simples e um modelo do changelog excel](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) que aborda os elementos importantes com os quais você pode começar a trabalhar. Isso inclui:
+O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Aqui está uma documentação simples e um modelo do excel para changelog](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) que aborda os elementos importantes com os quais você pode começar a trabalhar. As melhorias incluem:
 
 * Documentação
    * Nome do modelo de programa

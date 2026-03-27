@@ -1,6 +1,6 @@
 ---
-title: Dicas e truques para auditar uma instância de Marketo Engage herdada
-description: Saiba como otimizar e dimensionar uma instância de Marketo Engage ativo herdada.
+title: Dicas e truques para auditar uma instância herdada do Marketo Engage
+description: Saiba como otimizar e dimensionar uma instância ativa do Marketo Engage herdada.
 feature: Administration
 role: Admin
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Dicas e truques para auditar uma instância de Marketo Engage herdada - Visão geral do tutorial
+# Dicas e truques para auditar uma instância herdada do Marketo Engage - Visão geral do tutorial
 
-*Source: Adobe Marketo Champions*
+*Source: especialistas em Marketo da Adobe*
 
-Se você herdar uma instância de Marketo Engage ao vivo que foi gerenciada por várias pessoas, você pode acabar fazendo anotações mentais de tudo o que parece fora de lugar. É importante organizar o trabalho de limpeza e otimização categorizando as tarefas e priorizando as tarefas que percorrem um longo caminho.
+Se você herdar uma instância de Marketo Engage ao vivo que foi gerenciada por várias pessoas, você pode acabar fazendo anotações mentais de tudo o que parece estar fora de lugar. É importante organizar o trabalho de limpeza e otimização categorizando as tarefas e priorizando as tarefas que percorrem um longo caminho.
 
-Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Adobe Marketo, fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=pt-BR) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas! 
+Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Adobe Marketo, fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas! 
 
 ## Tópicos e o que você aprenderá
 
