@@ -24,4 +24,4 @@ Herdar uma instância do Marketo Engage pode ser um momento estressante, seja vo
 
 Neste tutorial, guiaremos você pelas seções mais importantes do Marketo Engage, incluindo Administração, Atividades de marketing, Design Studio e Banco de dados, e forneceremos dicas para auditoria e otimização ao longo do caminho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453027/?captions=por_br&learn=on)
