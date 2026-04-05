@@ -1,0 +1,35 @@
+---
+title: 'Práticas recomendadas para organizar uma nova instância  [!DNL Marketo Engage] '
+description: Saiba como organizar sua árvore de navegação em Atividades de marketing usando pastas, convenções de nomenclatura padrão e recursos como clonagem para trabalhar facilmente com seus colegas de trabalho em uma nova instância do Marketo Engage.
+role: Admin
+level: Beginner
+doc-type: Feature Video
+last-substantial-update: 2023-07-11T00:00:00Z
+jira: KT-13608
+thumbnail: 3421577.jpeg
+feature: Getting Started
+exl-id: baded0c2-3bb0-4361-a7f3-a99a65784829
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '262'
+ht-degree: 12%
+
+---
+
+# Práticas recomendadas para organizar uma nova instância do [!DNL Marketo Engage]
+
+Quando você começa a trabalhar com o Marketo Engage pela primeira vez, a organização é fundamental. Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos. Saiba como organizar sua árvore de navegação em [!UICONTROL Atividades de marketing] usando pastas, convenções de nomenclatura padrão e recursos como clonagem para trabalhar facilmente com seus colegas em uma nova instância do [!DNL Marketo Engage]. 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+
+## Recursos adicionais
+
+**Guias do produto:**
+
+* [Prática recomendada: como organizar seus programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [Clonar um programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
+* [Clonar um ativo em um programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
+* [Importar um programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
+* [Noções básicas sobre pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
+* [Criar nova pasta de campanha](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [Noções básicas dos espaços de trabalho e partições de pessoas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
