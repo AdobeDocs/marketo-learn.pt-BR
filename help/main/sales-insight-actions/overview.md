@@ -21,7 +21,7 @@ Use as [!UICONTROL Ações de vendas do Insight] para acelerar os esforços de p
 
 >[!NOTE]
 >
->O Marketo Sales Insight Actions é um aplicativo baseado na Web que se integra exclusivamente ao Salesforce CRM por meio do [pacote Marketo Sales Insight](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
+>O Marketo Sales Insight Actions é um aplicativo baseado na Web que se integra exclusivamente ao Salesforce CRM por meio do [pacote Marketo Sales Insight](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
 ## Tutoriais em destaque {#featured-tutorials}
 
@@ -47,18 +47,18 @@ Use as [!UICONTROL Ações de vendas do Insight] para acelerar os esforços de p
 <table style="table-layout:fixed">
 <tr>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="imagem em miniatura para Visão geral do recurso Ações do Sales Insight" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Visão Geral Do Recurso Sales Insight Actions</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html?lang=pt-BR"><img alt="imagem em miniatura para Visão geral do recurso Ações do Sales Insight" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html?lang=pt-BR"><strong>Visão Geral Do Recurso Sales Insight Actions</strong></a></div>
 <p><em>Acelere os esforços de prospecção com inteligência baseada em marketing e ferramentas de envolvimento.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="imagem em miniatura do Guia de Integração do Usuário do [!DNL Sales Insight Actions]" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guia de integração do usuário</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html?lang=pt-BR"><img alt="imagem em miniatura do Guia de Integração do Usuário do [!DNL Sales Insight Actions]" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html?lang=pt-BR"><strong>[!DNL Sales Insight Actions] Guia de integração do usuário</strong></a></div>
 <p><em>Etapas que novos usuários precisarão seguir para começar.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="Perguntas frequentes sobre imagem em miniatura para a Sincronização de dados do Actions" src="assets/actions-data-sync-faq-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>Perguntas frequentes sobre a Sincronização de Dados das Ações</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html?lang=pt-BR"><img alt="Perguntas frequentes sobre imagem em miniatura para a Sincronização de dados do Actions" src="assets/actions-data-sync-faq-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html?lang=pt-BR"><strong>Perguntas frequentes sobre a Sincronização de Dados das Ações</strong></a></div>
 <p><em>Perguntas frequentes relacionadas ao funcionamento da sincronização de unificação de dados.</em></p>
 </td>
 </tr>

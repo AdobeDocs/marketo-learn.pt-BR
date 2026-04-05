@@ -28,7 +28,7 @@ Saiba mais sobre os principais relatórios no Marketo Engage e como obtê-los.
 
 Leia os guias de produtos relacionados:
 
-* [Visão geral do tipo de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Visão geral do tipo de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=pt-BR)
 
 Aprenda com seus colegas:
 
