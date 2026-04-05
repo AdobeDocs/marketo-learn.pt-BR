@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre como criar e executar [!UICONTROL campanhas de promoção de ]
+title: Saiba mais sobre como criar e executar [!UICONTROL campanhas de promoção de &#x200B;]
 description: Com a criação de pessoas, você pode ouvir as necessidades dos indivíduos e responder com conteúdo relevante em toda a sua jornada de comprador único. Saiba mais sobre os programas de nutrição, como eles funcionam e as etapas para o sucesso.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Saiba mais sobre como criar e executar [!UICONTROL campanhas de promoção de ]
+# Saiba mais sobre como criar e executar [!UICONTROL campanhas de promoção de &#x200B;]
 
 Com a [!UICONTROL promoção da pessoa], você pode ouvir as necessidades das pessoas e responder com conteúdo relevante em toda a jornada de comprador único. Saiba mais sobre os programas de nutrição, como eles funcionam e as etapas para o sucesso.
 
