@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Impulsione conversões mais altas criando e projetando páginas de aterrissagem que incorporem as práticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412153/?captions=por_br&quality=12&learn=on){transcript=true}

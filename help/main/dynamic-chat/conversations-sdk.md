@@ -20,4 +20,4 @@ ht-degree: 7%
 
 Converta qualquer clique, carregamento de página ou qualquer ação de visitante do CTA em uma conversa envolvente com o Conversations SDK. Este é um guia passo a passo para implementar o em seu site
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448867/?captions=por_br&learn=on)

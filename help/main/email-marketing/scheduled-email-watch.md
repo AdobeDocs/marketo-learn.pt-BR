@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Saiba como criar, gerenciar e rastrear um programa de email agendado.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412154/?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Recursos adicionais
 

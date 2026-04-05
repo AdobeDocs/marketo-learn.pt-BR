@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Interaja com clientes atuais e potenciais de maneira econômica usando informativos personalizados por email.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412151/?captions=por_br&quality=12&learn=on){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 16%
 
 Saiba como decifrar campanhas interconectadas e profundamente aninhadas para obter melhor visibilidade de toda a jornada do cliente usando o Mapa de engajamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423300/?captions=por_br&learn=on){transcript=true}

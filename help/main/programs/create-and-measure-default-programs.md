@@ -20,4 +20,4 @@ ht-degree: 33%
 
 Saiba como criar e medir o sucesso de seus programas padrão.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424473/?captions=por_br&learn=on){transcript=true}

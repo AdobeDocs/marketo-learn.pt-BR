@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Visualizar a caixa de diálogo antes de publicar é muito fácil com o recurso de visualização da caixa de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436855/?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 

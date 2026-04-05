@@ -18,4 +18,4 @@ ht-degree: 0%
 
 O [!UICONTROL Dynamic Chat] agora está integrado à API incorporada do Document Cloud PDF. Isso permite que você compartilhe documentos do PDF em conversas personalizadas que você projeta no [!UICONTROL Dynamic Chat].
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447982/?captions=por_br&quality=12&learn=on){transcript=true}

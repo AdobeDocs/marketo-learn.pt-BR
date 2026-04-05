@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Faça um rápido tour pelos vários elementos em um programa de eventos de webinários interativos e saiba mais sobre as ações que você pode realizar para refiná-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450085/?captions=por_br&learn=on)

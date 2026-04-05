@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Saiba como configurar e registrar atividades de Ações do Sales Insight na sua conta do [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449204/?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Vídeos relacionados
 

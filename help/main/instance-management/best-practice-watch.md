@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como implementar as práticas recomendadas de instância e programa da Marketo no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413446/?captions=por_br&quality=12&learn=on){transcript=true}

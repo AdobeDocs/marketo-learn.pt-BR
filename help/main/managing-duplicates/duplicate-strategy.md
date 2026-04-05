@@ -20,4 +20,4 @@ ht-degree: 25%
 
 Recapitule as principais soluções para lidar com duplicatas no Marketo Engage e escolha a melhor solução para as necessidades e os recursos de sua equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436645/?captions=por_br&learn=on&enablevpops)

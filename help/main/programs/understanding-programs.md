@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Programas representam uma única iniciativa de marketing. Saiba como aproveitá-las para alcançar seu público-alvo de várias maneiras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470492/?captions=por_br&learn=on&enablevpops)

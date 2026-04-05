@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Saiba mais sobre os principais relatórios no Marketo Engage e como obtê-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432186/?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

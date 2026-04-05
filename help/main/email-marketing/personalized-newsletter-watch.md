@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como criar um programa de email de informativo personalizado no Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412150/?captions=por_br&quality=12&learn=on){transcript=true}

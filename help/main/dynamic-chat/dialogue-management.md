@@ -18,7 +18,7 @@ ht-degree: 21%
 
 Criar conversas direcionadas e personalizadas é a chave para gerar uma excelente experiência de conversação para cada visitante da web. Saiba como criar e gerenciar uma caixa de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443797/?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 

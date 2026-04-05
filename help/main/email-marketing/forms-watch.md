@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Veja como criar, projetar e organizar formulários que incluem criação de perfil progressiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413535/?captions=por_br&quality=12&learn=on){transcript=true}

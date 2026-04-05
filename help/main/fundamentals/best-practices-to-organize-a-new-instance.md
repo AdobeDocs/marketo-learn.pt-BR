@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Quando você começa a trabalhar com o Marketo Engage pela primeira vez, a organização é fundamental. Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos. Saiba como organizar sua árvore de navegação em [!UICONTROL Atividades de marketing] usando pastas, convenções de nomenclatura padrão e recursos como clonagem para trabalhar facilmente com seus colegas em uma nova instância do [!DNL Marketo Engage]. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422767/?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

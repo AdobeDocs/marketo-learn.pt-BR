@@ -20,7 +20,7 @@ ht-degree: 13%
 
 Entenda os quatro tipos de programas, como importar programas, programas de pontuação de lead/pessoa e definir tags de canal. Saiba mais sobre os casos de uso comuns e as práticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422759/?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

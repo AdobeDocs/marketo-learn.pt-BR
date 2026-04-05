@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba mais sobre as permissões do usuário para webinários interativos, bem como sobre a disponibilidade da licença e o monitoramento do limite de uso para licenças de webinários interativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446121/?captions=por_br&learn=on)
