@@ -10,7 +10,7 @@ jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Se você herdar uma instância de Marketo Engage ao vivo que foi gerenciada por várias pessoas, você pode acabar fazendo anotações mentais de tudo o que parece estar fora de lugar. É importante organizar o trabalho de limpeza e otimização categorizando as tarefas e priorizando as tarefas que percorrem um longo caminho.
 
-Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Adobe Marketo, fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=pt-BR) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas! 
+Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Adobe Marketo, fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas!
 
 ## Tópicos e o que você aprenderá
 
@@ -36,7 +36,7 @@ Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, pr
 * **[Desenvolver um guia de governança de instância](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *Saiba como obter ganhos rápidos de eficiência para otimizar as operações de compilação de programa, governança e marketing em geral*
 
-* **[Mapear visualmente sua pilha de tecnologia de marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
+* **[Mapear visualmente sua pilha técnica de marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *Saiba como mapear fontes de dados com um diagrama de arquitetura visual para entender sua pilha de tecnologia*
 
 * **[Processo de garantia de qualidade (QA) de pré-lançamento do programa](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**

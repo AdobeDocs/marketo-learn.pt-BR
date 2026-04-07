@@ -3,17 +3,17 @@ user-guide-title: Tutoriais do Marketo Engage
 user-guide-description: Uma coleção de vídeos e tutoriais sobre o Adobe Marketo Engage.
 breadcrumb-title: Tutoriais do Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # Tutoriais do [!DNL Marketo Engage] {#tutorials}
 
-+ [Tutoriais do [!DNL Marketo Engage]](overview.md)
++ [Tutoriais do [!DNL Marketo Engage]](/help/main/overview.md)
 + Fundamentos {#fundamentals}
    + [Metas e estratégia](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [Estrutura organizacional](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [Passo a passo de formulários](/help/main/email-marketing/forms-watch.md)
    + [Integração do marketing para dispositivos móveis](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [Passo a passo do marketing para dispositivos móveis](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO e PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [Passo a passo de SEO e PPC](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Personalização na web](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [Passo a passo da personalização na web](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [Automatizar o gerenciamento de duplicatas, parte 2](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [Simplifique o gerenciamento de duplicatas](/help/main/managing-duplicates/simplify-acs.md)
    + [Escolha a melhor estratégia para gerenciar duplicatas](/help/main/managing-duplicates/duplicate-strategy.md)
++ Shorts {#shorts}
+   + [Assistente de IA para Designer de email](/help/main/shorts/ai-assistant-email-designer.md)
+
