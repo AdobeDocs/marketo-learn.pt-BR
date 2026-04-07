@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como controlar dinamicamente o conteúdo que é visto por cada público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481287/?captions=por_br&learn=on&enablevpops)
