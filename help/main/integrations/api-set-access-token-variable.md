@@ -9,26 +9,26 @@ duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 9bffa576fc5a05c695f7a1c83d50cbcb16f57c37
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 35%
+source-wordcount: '219'
+ht-degree: 27%
 
 ---
 
 # Ajuda da API - Como definir o token de acesso em uma variável
 
-Saiba como configurar o aplicativo do Postman e salvar dados em variáveis para fins de reutilização. Você também aprenderá a fazer sua primeira chamada à API REST do Marketo Engage para obter o token de acesso.
+Saiba como configurar o aplicativo do Postman e salvar dados em variáveis para fins de reutilização. Saiba também como fazer sua primeira chamada à API REST do Marketo Engage para obter o token de acesso.
 
 >[!PREREQUISITES]
 >
 >Antes de iniciar este vídeo, crie um nome de usuário Somente API com uma função AOI e crie um serviço Launchpad. Siga as etapas nos artigos abaixo:
 >
->* [Criar uma função de usuário somente API](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Criar uma função de usuário somente API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Criar um Usuário Somente de API](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Criar um Usuário Somente de API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Criar um serviço personalizado para usar com a API REST](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Criar um serviço personalizado para usar com a API REST](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Referências usadas neste vídeo:**
 
@@ -43,4 +43,4 @@ pm.environment.set("access_token", jsonData.access_token);
 
 * [Documentação de desenvolvedores do Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3453988/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
