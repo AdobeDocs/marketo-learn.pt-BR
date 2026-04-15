@@ -3,10 +3,10 @@ title: Tutoriais do Marketo Engage
 description: Assista aos tutoriais em vídeo sobre o  [!DNL Marketo Engage]. Melhore sua compreensão sobre o uso dos recursos de automação de marketing e muito mais.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ Navegue pela nossa biblioteca de tutoriais e aproveite ao máximo o [!DNL Market
 
 ## Novidades {#whats-new}
 
+* [Assistente de IA para Designer de email](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _Use o Assistente de IA no Marketo Engage Email Designer para ajudá-lo a criar emails contemporâneos, com desempenho e intuitivos._
+
+* [Conteúdo condicional](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _Saiba como controlar dinamicamente o conteúdo visto por cada público-alvo._
+
 * [Práticas recomendadas para implementar o chat ao vivo](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Saiba mais sobre as práticas recomendadas a seguir para implementar o recurso de chat ao vivo no Dynamic Chat._
-
-* [Visão geral de webinários interativos](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _Saiba tudo sobre Webinários interativos, a plataforma de webinário integrada no Marketo Engage._
-
-* [Migrando para o Adobe Identity Management](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Saiba como navegar na migração do Adobe Identity Management para começar a gerenciar o Adobe Marketo Engage junto com outras contas e produtos Adobe de seus usuários em um único local._
 
 ## Vídeos mais populares {#most-popular-videos}
 
