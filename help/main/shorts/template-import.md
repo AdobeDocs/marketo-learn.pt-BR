@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Saiba como importar seus modelos de email existentes do editor clássico para o Designer de email, preservando seus designs e acelerando a criação de modelos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483495/?captions=por_br&learn=on&enablevpops)
