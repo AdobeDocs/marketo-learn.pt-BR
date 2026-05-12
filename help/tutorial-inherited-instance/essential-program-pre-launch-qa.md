@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -92,7 +125,7 @@ Pode haver itens ausentes ou não aplicáveis à medida que sua equipe executa e
 | 2 | **Testando** | Ele foi testado em vários dispositivos? navegadores? Ele é renderizado corretamente e funciona? | **Sim:** <br>Se não for possível responder com sim, você deverá testar isso em dispositivos e navegadores. |  |
 | 3 | **Dados** | Se houver um formulário na campanha, ele foi testado? Todos os acionadores fluem conforme esperado? Todos os campos de formulário são mapeados com precisão? É possível comprovar isso, depois de verificar o log de atividades de um registro de pessoas, não apenas os campos? | **Sim:** <br>Se não for possível responder com sim, você deverá testar isto. | [Definir um Campo de Formulário como Oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=pt-BR){target="_blank"}<br><br> [Definir um Valor de Campo de Formulário Oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=pt-BR){target="_blank"} |
 | 4 | **Rastreamento** | Se você tiver um formulário na campanha, os campos UTM ocultos estão em vigor para rastrear fontes de envios? Eles foram testados? | **Sim ou não:** Se você responder não, entenda que sua capacidade de rastrear quais fontes direcionaram as pessoas para este formulário é limitada. | [Parâmetro do referenciador](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=pt-BR#referrer-parameter){target="_blank"} |
-| 5 | **Conformidade com GDPR/CASL** | <li>Se os dados forem capturados por meio do formulário, o opt-in estará em conformidade com a política corporativa? <li>Você fornece uma declaração de coleta com um link de Política de privacidade funcional? | **Sim:** <br>Entenda seu ambiente de conformidade relevante: se você não puder responder a esta pergunta com sim, atualize a seção Política de Privacidade para garantir que ela seja compatível. **Caso não saiba, procure a assistência apropriada de sua equipe jurídica.** | [Gerenciamento de privacidade](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=pt-BR){target="_blank"} |
+| 5 | **Conformidade com GDPR/CASL** | <li>Se os dados forem capturados por meio do formulário, o opt-in estará em conformidade com a política corporativa? <li>Você fornece uma declaração de coleta com um link de Política de privacidade funcional? | **Sim:** <br>Entenda seu ambiente de conformidade relevante: se você não puder responder a esta pergunta com sim, atualize a seção Política de Privacidade para garantir que ela seja compatível. **Caso não saiba, procure a orientação apropriada de sua equipe jurídica.** | [Gerenciamento de privacidade](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=pt-BR){target="_blank"} |
 | 6 | **Integração do Google Analytics** | O Web Personalization está integrado ao Google Analytics? | **Sim ou não:**<br> Se responder não, entenda que sua capacidade de rastrear o impacto da personalização da Web é limitada. | [Remarketing personalizado no Google](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.html?lang=pt-BR){target="_blank"} |
 | 7 | **Segmentos da Web** | <li>O segmento é escolhido de forma apropriada e se aplica aos domínios corretos? <li>O segmento está sendo enviado para o Google Analytics? | **Sim:** <br> Se não for possível responder com sim, você deverá atualizá-lo. | [Segmentos da Web](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments.html?lang=pt-BR){target="_blank"}<br><br>[Localizar Campanhas da Web que estão Usando um Segmento Específico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.html?lang=pt-BR){target="_blank"} |
 
@@ -121,7 +154,7 @@ Pode haver itens ausentes ou não aplicáveis à medida que sua equipe executa e
 | 2 | **Projeto** | O design da marca do formulário é consistente? | **Sim:** <br>Se não for possível responder com sim, você precisará de um bom motivo para isso ou deverá atualizar o CSS para torná-lo marca. |  |
 | 3 | **Fluxo de dados** | Todos os dados são mapeados para campos conforme planejado? Você verificou o registro de atividades de um teste para provar isso? | **Sim:** <br>Se não for possível responder com sim, corrija e teste o mapeamento. | [Localizar o Log de Atividades de uma Pessoa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=pt-BR){target="_blank"} |
 | 4 | **Rastreamento** | Há campos UTM ocultos em vigor para rastrear fontes de envios para este formulário? Eles foram testados? | **Sim ou não:** <br>Se responder não, entenda que sua capacidade de rastrear quais fontes direcionaram as pessoas para este formulário é limitada. | [Definir um campo de formulário como oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=pt-BR){target="_blank"}<br><br>[Definir um valor de campo de formulário oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=pt-BR){target="_blank"} |
-| 5 | **Conformidade com GDPR/CASL** | Se os dados forem capturados por meio do formulário, o opt-in é compatível e você fornece uma declaração de coleta com um link de política de privacidade em funcionamento? | **Sim:** <br>Conhece seu ambiente de conformidade relevante: se você não puder responder a esta pergunta com um sim, será necessário atualizar para garantir que ela seja compatível. **Se você não souber, procure a orientação apropriada.** | [Gerenciamento de privacidade](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=pt-BR){target="_blank"} |
+| 5 | **Conformidade com GDPR/CASL** | Se os dados forem capturados por meio do formulário, o opt-in é compatível e você fornece uma declaração de coleta com um link de política de privacidade em funcionamento? | **Sim:** <br>Conhece seu ambiente de conformidade relevante: se você não puder responder a esta pergunta com um sim, será necessário atualizar para garantir que ela seja compatível. **Se você não souber, procure o conselho apropriado.** | [Gerenciamento de privacidade](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=pt-BR){target="_blank"} |
 
 >[!TAB Campanhas inteligentes]
 
@@ -185,7 +218,7 @@ Pode haver itens ausentes ou não aplicáveis à medida que sua equipe executa e
 | 19 | **Teste A/B e Champ/Challenger** | Você está executando algum teste de campeão/desafiante no email? | **Sim ou não:**<br> Se você não estiver fazendo nenhum teste, pense se não está perdendo uma oportunidade de saber mais sobre seu público-alvo. | [Criar um teste A/B](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=pt-BR)<br><br>[Adicionar um Especialista/Desafiador de email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=pt-BR){target="_blank"} |
 | 20 | **Teste de Cliente** | Você executou o e-mail através do software de teste do cliente?<li>Você identificou problemas de exibição com os principais clientes de e-mail? <li>Você corrigiu ou registrou como uma correção de modelo não urgente? <li>Você identificou problemas de velocidade de carga e tentou melhorar?<li>Você identificou algum problema na linha de assunto/visualização? Eles estão resolvidos? | **Sim ou não aplicável:**<br> Se não for possível responder com sim (a menos que você não tenha um software de teste), isso deverá ser feito antes do envio. | Exemplos de software de teste de cliente incluem Litmus ou Email no Acid ou [Power Pack de capacidade de entrega de email do Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=pt-BR)<br><br>[Tutoriais do rastreador de caixa de entrada](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=pt-BR){target="_blank"} |
 | 21 | **Teste de spam** | Você executou o e-mail no processo de spam?<li>Há algum indicador de incluir na lista de bloqueios sendo acionado para conscientização?<li>Você identificou sinalizadores de posicionamento de caixa de entrada/cliente de email? <li>Você já procurou por possíveis causas e tentou resolvê-las? | **Sim ou não aplicável:**<br> Se não for possível responder com sim (a menos que você não tenha um software de teste), isso deverá ser feito antes do envio. | Use a [funcionalidade do Rastreador de Caixa de Entrada do Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=pt-BR){target="_blank"} para isso se ela estiver incluída em seu contrato ou em ferramentas como Litmus ou Email no Acid. |
-| 22 | **Análises adicionais** | O email tem um código de análise adicional incluído? | **Sim ou não aplicável:**<br>       Se você não conseguir responder com sim (a menos que não tenha software de análise adicional), isso deve ser feito antes do envio. |  |
+| 22 | **Análises adicionais** | O email tem um código de análise adicional incluído? | **Sim ou não aplicável:**<br> Se você não puder responder com sim (a menos que não tenha software de análise adicional), isso deverá ser feito antes do envio. |  |
 
 >[!TAB Verificações finais]
 
