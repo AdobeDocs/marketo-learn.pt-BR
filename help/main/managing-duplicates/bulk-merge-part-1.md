@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba mais sobre os cenários e a lógica por trás do processamento da mesclagem de duplicatas em massa. Comece a mesclar em massa exportando registros duplicados para o Excel para uma limpeza e consolidação de dados eficientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439230/?captions=por_br&learn=on&enablevpops)

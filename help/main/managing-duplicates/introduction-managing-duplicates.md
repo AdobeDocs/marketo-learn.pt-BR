@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba mais sobre os conceitos principais de gerenciamento de registros duplicados no banco de dados do Marketo Engage, seu impacto nos fluxos de trabalho e quatro métodos para manter os dados limpos. Assista a cada clipe de vídeo para saber como manter seu banco de dados limpo e saudável.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441955/?captions=por_br&learn=on&enablevpops)
