@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Descubra cenários em que as duplicatas são objetivas, como residências com várias pessoas ou necessidades de conformidade, e como gerenciá-las com eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442050/?captions=por_br&learn=on&enablevpops)
