@@ -1,15 +1,13 @@
 ---
 title: Tutoriais do Marketo Engage
-description: Assista aos tutoriais em vídeo sobre o  [!DNL Marketo Engage]. Melhore sua compreensão sobre o uso dos recursos de automação de marketing e muito mais.
+description: Assista aos tutoriais em vídeo em [!DNL Marketo Engage]. Melhore sua compreensão sobre o uso dos recursos de automação de marketing e muito mais.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
+source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 71%
-
+source-wordcount: '217'
+ht-degree: 69%
 ---
-
 # Tutoriais do [!DNL Marketo Engage]
 
 Navegue pela nossa biblioteca de tutoriais e aproveite ao máximo o [!DNL Marketo Engage]. Esses tutoriais podem ajudar a complementar a [[!DNL Marketo] documentação do produto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR){target="_blank"} e a melhorar a sua compreensão dos recursos de automação de marketing.
@@ -25,11 +23,11 @@ Navegue pela nossa biblioteca de tutoriais e aproveite ao máximo o [!DNL Market
 
 ## Novidades {#whats-new}
 
+* [Marketo Engage na Adobe Experience Cloud](/help/main/fundamentals/marketo-engage-aec.md)
+  _Saiba como acessar o Marketo Engage pela Adobe Experience Cloud e fazer um rápido tour pela interface._
+
 * [Importação de modelo](/help/main/shorts/template-import.md)
   _Saiba como importar modelos de email existentes do editor clássico para o Designer de email, preservando seus designs e acelerando a criação de modelos..._
-
-* [Assistente de IA para Designer de email](/help/main/shorts/ai-assistant-email-designer.md)
-  _Use o Assistente de IA no Marketo Engage Email Designer para ajudá-lo a criar emails contemporâneos, com desempenho e intuitivos._
 
 * [Conteúdo condicional](/help/main/shorts/conditional-content.md)
   _Saiba como controlar dinamicamente o conteúdo visto por cada público-alvo._
