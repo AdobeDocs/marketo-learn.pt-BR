@@ -31,7 +31,7 @@ ht-degree: 0%
 
 Gerencie seus usuários do [!UICONTROL Dynamic Chat] por meio do Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450751/?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Vídeos mais úteis
 
