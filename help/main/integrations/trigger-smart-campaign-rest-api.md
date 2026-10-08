@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # Como acionar uma campanha inteligente no Marketo Engage com a API REST e os tokens
 
 Este tutorial mostra como acionar uma Campanha inteligente no Marketo Engage usando a API REST e personalizar o email usando Meus tokens. Esse caso de uso é ideal para notificações acionadas pelo cliente, como lembretes de webinário, etapas de integração ou acompanhamentos pós-compra.
@@ -22,9 +37,9 @@ Uma pessoa se registra em um webinário por meio de uma plataforma externa (por 
 
 * Acionar um email de lembrete do Marketo Engage
 * Personalize-o com:
-   * O nome da pessoa
-   * Título do webinário
-   * Um link de join exclusivo
+  * O nome da pessoa
+  * Título do webinário
+  * Um link de join exclusivo
 
 Isso pode ser feito usando a API REST e Meus tokens.
 

@@ -10,30 +10,41 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+TQID: 'https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 959
+source-wordcount: '959'
 ht-degree: 1%
-
 ---
-
 # Desenvolver um guia de governança de instância com a documentação
 
 À medida que você entra em uma instância herdada do [!DNL Marketo Engage], ela geralmente aparece com o desafio de não ter uma documentação funcional e técnica atualizada. Como administrador, estabelecer diretrizes para garantir o controle adequado da instância é uma responsabilidade principal que não pode ser ignorada. É uma das estratégias críticas para [impulsionar a eficiência enquanto você trabalha em uma instância estabelecida do Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
@@ -71,22 +82,22 @@ Um guia de governança serve como a fonte da verdade dos requisitos de configura
 O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Esta é uma documentação simples e um modelo do changelog excel](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) que aborda os elementos importantes com os quais você pode começar a trabalhar. As melhorias incluem:
 
 * Documentação
-   * Nome do modelo de programa
-   * Canal
-   * Data de criação
-   * Criado por
-   * Finalidade do programa
-   * Status
-   * Vincular ao modelo do programa
-   * Observação
+  * Nome do modelo de programa
+  * Canal
+  * Data de criação
+  * Criado por
+  * Finalidade do programa
+  * Status
+  * Vincular ao modelo do programa
+  * Observação
 * Changelog
-   * Nome do modelo de programa
-   * Data da alteração
-   * Atualizado por
-   * Finalidade da atualização
-   * Experiência antes da alteração (incluir links/capturas de tela)
-   * Experiência após a alteração (incluir links/capturas de tela)
-   * URL para o programa
+  * Nome do modelo de programa
+  * Data da alteração
+  * Atualizado por
+  * Finalidade da atualização
+  * Experiência antes da alteração (incluir links/capturas de tela)
+  * Experiência após a alteração (incluir links/capturas de tela)
+  * URL para o programa
 
 ### Etapa 3: identificar e documentar o estado atual dos programas operacionais principais
 
