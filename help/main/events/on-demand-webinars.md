@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Webinários sob demanda capturam e refinam os leads que se registraram no seu evento e que não participaram, mas desejam obter informações relacionadas ao evento assistindo à gravação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506202/?captions=por_br&learn=on)
